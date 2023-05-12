@@ -1,0 +1,6 @@
+Package: placeholder
+Type: Book
+Title: Manual para Personas Usuarias
+Version: 0.1
+Imports: bookdown, ggplot2
+Remotes: rstudio/bookdown

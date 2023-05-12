@@ -19,6 +19,6 @@ csl: "chicago-fullnote-bibliography.csl"
 
 # SNIRA {.unnumbered}
 
-![](C:/Users/angmartinez/Documents/SNIRA/ManualUsuarioBueno/M_Usuarias/images/CoverPic_Manual.png){width="700"}
+![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/CoverPic_Manual.png){width="600"}
 
 

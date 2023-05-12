@@ -1,4 +1,4 @@
---- 
+---
 title: "Manual para Personas Usuarias"
 author: Conabio. 2023. Manual para Personas Usuarias del Sistema Nacional de Información
   para la Restauración Ambiental, Comisión Nacional para el Conocimiento y Uso de
@@ -19,6 +19,4 @@ csl: "chicago-fullnote-bibliography.csl"
 
 # SNIRA {.unnumbered}
 
-![](C:/Users/angmartinez/Documents/SNIRA/ManualUsuarioBueno/M_Usuarias/images/CoverPic_Manual.png){width="700"}
-
-
+![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/CoverPic_Manual.png){width="600"}

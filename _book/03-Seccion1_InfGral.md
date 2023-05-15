@@ -10,15 +10,15 @@ La sección comprende 25 campos, de los cuales **7 son estrictamente obligatorio
 
 Los campos de 'Identificador único' y 'Estatus', ubicados en la parte superior, son asignados automáticamente y no pueden ser modificados por las personas usuarias.
 
-![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/02_Identificador.png){width="500"}
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/02_Identificador.png){width="500"}
 
-### Nombre del proyecto\* {style="color:red"}
+### <span style="color:red"> Nombre del proyecto\*</span> 
 
 Escriba el nombre de un proyecto en español (p. ej., Programa Nacional para la Conservación y Restauración Integral de las Islas de México).
 Cuando la información que se captura es extraída de una publicación, ponga el título de la publicación en español.
 Si el nombre de la publicación está en un idioma distinto, favor de traducirlo y escribirlo en el siguiente campo "Nombre original del proyecto".
 
-![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/03_NomProy.png){width="700"}
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/03_NomProy.png){width="700"}
 
 ### Nombre original del proyecto
 
@@ -31,18 +31,18 @@ Seleccione la opción que corresponda: - Teórico: Hace referencia a proyectos d
 - Práctico: Hace referencia a proyectos en campo.
 - Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo.
 
-![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/04.2_TipoProy.png){width="700"}
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/04.2_TipoProy.png){width="700"}
 
 ### ¿El proyecto forma parte de un proyecto más amplio?\*
 
 Seleccione la opción que corresponda: - No: Refiere a un proyecto que se registra de forma individual y hasta donde se sabe no forma parte de un proyecto general (p. ej., Restoration planning to guide Aichi targets in a megadiverse country).
 - Sí: Refiere a un programa o proyecto general que incluye proyectos específicos (p. ej., Proyecto GEF-Invasoras 'Aumentar las Capacidades Nacionales para el Manejo de las Especies Exóticas Invasoras (EEI) a través de la Implementación de la Estrategia Nacional de EEI').
 
-![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/05.1_ProyeAmplio.png){width="700"} En caso de que sí forme parte de un proyecto más amplio Seleccione la opción que corresponda de la lista.
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/05.1_ProyeAmplio.png){width="700"} En caso de que sí forme parte de un proyecto más amplio Seleccione la opción que corresponda de la lista.
 
-![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/05.2_ProyeAmplio.png){width="700"} En caso de que el nombre del proyecto más amplio no aparezca Escriba el nombre del proyecto cuando no aparece en la lista Campo de texto abierto que permite introducir el nombre del proyecto más amplio
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/05.2_ProyeAmplio.png){width="700"} En caso de que el nombre del proyecto más amplio no aparezca Escriba el nombre del proyecto cuando no aparece en la lista Campo de texto abierto que permite introducir el nombre del proyecto más amplio
 
-![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/05.3_ProyeAmplio.png){width="700"}
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/05.3_ProyeAmplio.png){width="700"}
 
 ### Objetivo de proyecto\* {style="color:red"}
 
@@ -51,7 +51,7 @@ Si copia el objetivo del documento, póngalo entre comillas " " para indicar que
 Si el resumen está en un idioma distinto al español, favor de traducirlo.
 Puede usar un traductor disponible en línea, favor de indicar en el campo que fue 'Traducido por XX´
 
-![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/06_ObjProy.png){width="700"}
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/06_ObjProy.png){width="700"}
 
 ### Enfoque del proyecto según la persona usuaria\* {style="color:red"}
 
@@ -60,7 +60,7 @@ El enfoque es establecido por el criterio y conocimiento de la persona usuaria.
 Para información recabada a partir de una publicación, indique el enfoque o término usado en la publicación.
 El enfoque o término capturado puede ser el mismo que se indique en el campo 'Enfoque del proyecto según el SNIRA'.
 
-![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/07_EnfoUsu.png){width="700"}
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/07_EnfoUsu.png){width="700"}
 
 ### Enfoque del proyecto según el SNIRA\* {style="color:red"}
 
@@ -79,7 +79,7 @@ El objetivo principal es controlar o eliminar contaminantes que afectan o pertur
 Puede resultar en un reemplazo o reconstrucción de un ecosistema original.\
 - No aplica: Seleccione cuando ninguna de las otras opciones aplica.
 
-![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/08_EnfoSNIRA.png){width="700"}
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/08_EnfoSNIRA.png){width="700"}
 
 ### Comentarios respecto al enfoque del proyecto
 

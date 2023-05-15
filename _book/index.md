@@ -19,4 +19,4 @@ csl: "chicago-fullnote-bibliography.csl"
 
 # SNIRA {.unnumbered}
 
-![](C:/Users/angmartinez/Desktop/PruebasManualSNIRA/PruebasManualSNIRA/images/CoverPic_Manual.png){width="600"}
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/CoverPic_Manual.PNG){width="600"}

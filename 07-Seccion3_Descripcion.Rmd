@@ -1,5 +1,5 @@
 # Sección 3: Descripción {.unnumbered}
-Esta sección contiene seis subsecciones. En total, la sección comprende 49 campos, de los cuales __13 son estrictamente obligatorios  (*)__.
+Esta sección contiene seis subsecciones. En total, la sección comprende 49 campos, de los cuales **13 son estrictamente obligatorios  (<span style="color:red">\*</span>)**.
 
 Puede navegar y completar las subsecciones según el orden establecido a través del botón ‘Siguiente’ que está ubicado en la parte inferior del lado izquierdo. De esa manera, es más fácil asegurar que completa todas las subsecciones y campos obligatorios. 
 

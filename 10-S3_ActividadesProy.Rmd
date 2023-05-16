@@ -1,6 +1,6 @@
 #    Subsección 3.3: Actividades del proyecto {.unnumbered}
 
-La subsección comprende siete campos; __un campo es estrictamente obligatorio__.
+La subsección comprende siete campos; **un campo es estrictamente obligatorio (<span style="color:red">\*</span>)**.
 
 ### Indique los métodos o técnicas que se usaron / usan / usarán para el proyecto de restauración
 Escriba los métodos o técnicas usadas en el proyecto, p. ej., caracterización de hábitat, análisis de crecimiento, trasplante de fragmentos de corales, recolección de lluvia de semillas de árboles, observación de aves, encuesta, modelación de la distribución potencial de especies, identificación de sitios prioritarios para la restauración, meta-análisis, entre varios otros. Si copia información del documento, póngala entre comillas " " para indicar que es una cita textual. Si la información está en un idioma distinto al español, favor de traducir.
@@ -41,5 +41,6 @@ Campo de texto abierto que permite introducir comentarios, opiniones, etc. respe
 ### GUARDAR
 Pulse el botón ‘Guardar’, una vez que haya registrado los datos.
 En el caso de que todos los campos obligatorios hayan sido llenados, el sistema arrojará una ventana con la leyenda 'Cambios guardados'. Pulse el botón ‘Aceptar’ para asegurar que la información sea guardada en el sistema. 
+
 Pulse el botón ‘Siguiente’ para pasar a la siguiente subsección. 
 Si algún campo obligatorio se encuentra vacío, el botón ‘Guardar’ estará deshabilitado. 

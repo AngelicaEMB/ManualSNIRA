@@ -6,7 +6,7 @@ editor_options:
 
 # Sección 1: Información general {.unnumbered}
 
-La sección comprende 25 campos, de los cuales **7 son estrictamente obligatorios** (\*).
+La sección comprende 25 campos, de los cuales **7 son estrictamente obligatorios** (<span style="color:red">\*</span>).
 
 Los campos de 'Identificador único' y 'Estatus', ubicados en la parte superior, son asignados automáticamente y no pueden ser modificados por las personas usuarias.
 

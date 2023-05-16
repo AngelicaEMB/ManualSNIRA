@@ -19,6 +19,7 @@ En caso de no contar con algún material de referencia, escriba: Observación pe
 Puede utilizar el generador de citas Scribbr (<https://www.scribbr.es/citar/generador/>), que por medio del URL (sitio web, vídeo o artículo de noticias en línea), DOI (Artículo de revista) o   ISBN (libro) realiza la búsqueda y el despliegue de la referencia en formato APA. 
 
 Consulte **este documento** para más información y ejemplos de la estructura del formato APA.
+
     - Artículo: Apellido, A.A. y Autor/a, B.B. (año de la publicación). Título del artículo. Título de la revista, Volumen (Número), Páginas (xx-xx). https://doi.org/xxx o http://xxx.
     - Libro: Editor/a, E. E. y Editor/a, F. F. (eds.) (año de la publicación). Título del libro (edición). Editorial.
     - Capítulo de libro: Apellido, A.A. del capítulo (año de la publicación). Título del capítulo. En Editor del libro (ed.). Título del libro (pp. xx-xx). Editorial.

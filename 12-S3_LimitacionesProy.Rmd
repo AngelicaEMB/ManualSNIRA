@@ -1,6 +1,6 @@
 #    Subsección 3.5: Limitaciones e impactos del proyecto  {.unnumbered}
 
-La subsección comprende nueve campos, de los cuales __tres son obligatorios (*)__.
+La subsección comprende nueve campos, de los cuales **tres son obligatorios (<span style="color:red">\*</span>)**.
 
 ### Indique las limitaciones generales que enfrentó o enfrenta el proyecto*  
 Seleccione todas las opciones de la lista que correspondan. 
@@ -40,5 +40,6 @@ Campo de texto abierto que permite introducir comentarios, opiniones, etc. respe
 ### GUARDAR
 Pulse el botón ‘Guardar’, una vez que haya registrado los datos.
 En el caso de que todos los campos obligatorios hayan sido llenados, el sistema arrojará una ventana con la leyenda 'Cambios guardados'. Pulse el botón ‘Aceptar’ para asegurar que la información sea guardada en el sistema. 
+
 Pulse el botón ‘Siguiente’ para pasar a la siguiente subsección. 
 Si algún campo obligatorio se encuentra vacío, el botón ‘Guardar’ estará deshabilitado. 

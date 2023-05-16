@@ -3,7 +3,7 @@ title: "Manual para Personas Usuarias"
 author: Conabio. 2023. Manual para Personas Usuarias del Sistema Nacional de Información
   para la Restauración Ambiental, Comisión Nacional para el Conocimiento y Uso de
   la Biodiversidad. México.  https://snira.conabio.gob.mx/
-date: "2023-05-15"
+date: "2023-05-16"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography:

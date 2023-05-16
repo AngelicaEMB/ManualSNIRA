@@ -1,6 +1,6 @@
 # Instrucciones generales
 
-La base de datos del SNIRA comprende cuatro secciones y 88 campos, de los cuales 33 son campos obligatorios marcados con un asterisco (*). En caso de no llenar un campo obligatorio, no será posible guardar los datos ya capturados por sección, ni registrar el proyecto.Se recomienda agregar toda la información disponible con la finalidad de enriquecer al SNIRA y apoyar al cumplimiento de los objetivos para los que fue diseñado. 
+La base de datos del SNIRA comprende cuatro secciones y 88 campos, de los cuales __33 son campos obligatorios marcados con un asterisco (*)__. En caso de no llenar un campo obligatorio, no será posible guardar los datos ya capturados por sección, ni registrar el proyecto.Se recomienda agregar toda la información disponible con la finalidad de enriquecer al SNIRA y apoyar al cumplimiento de los objetivos para los que fue diseñado. 
 
 En la medida de lo posible, los campos incluyen catálogos de vocabulario controlado para facilitar la captura de información y estandarizar las respuestas en la base de datos. Por favor, seleccione la opción de respuesta que más se ajuste a su proyecto.
 Si no encuentra una opción de respuesta que aplique a su proyecto, puede escribir su respuesta en los campos de texto abierto correspondientes, estos campos también sirven para para poder proporcionar mayor detalle o escribir comentarios. Los campos de texto abierto asociados a los distintos campos de vocabulario controlado se encuentran en todas las secciones y subsecciones del sistema.

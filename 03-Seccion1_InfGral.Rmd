@@ -74,7 +74,7 @@ Para información recabada a partir de una publicación, indique el enfoque o t�
 El enfoque o término capturado puede ser el mismo que se indique en el campo ‘Enfoque del proyecto según el SNIRA’.
 
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/07_EnfoUsu.png){width="700"}
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen2.png){width="700"}
 
 ### <span style="color:red">Enfoque del proyecto según el SNIRA\*</span> {.unnumbered}
 

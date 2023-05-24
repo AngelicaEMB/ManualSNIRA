@@ -15,6 +15,7 @@ Pulse ‘Eliminar’ sino va a capturar información.
 ### <span style="color:red">Especie\*</span> {.unnumbered}
 Seleccione el nombre científico; al teclear el nombre, aparecerá una lista de 10 opciones que se actualiza conforme siga tecleando. Si la especie es un sinónimo, el nombre válido aparecerá entre paréntesis, p. ej., _Pinus bonapartea_ (_Pinus strobiformis_).
 
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen3.PNG){width="200"}
 
 ### <span style="color:red">Uso de la especie\*</span> {.unnumbered}
 Seleccione una opción.

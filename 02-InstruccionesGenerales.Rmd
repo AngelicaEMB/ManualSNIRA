@@ -25,7 +25,7 @@ A continuación se explican con detalle cada una de las secciones y los campos d
 
 ## Primer paso {.unnumbered}
 **Registre un nuevo proyecto**
-En esta sección encontrará las instrucciones para la captura de la información en la base de datos, así como e **Aviso de privacidad** y los **Términos y condiciones de uso del sitio**.
+En esta sección encontrará las instrucciones para la captura de la información en la base de datos, así como el [**Aviso de privacidad**](https://www.biodiversidad.gob.mx/conabio/proteccion-DP/ap-solicitudes-de-acceso-infopub) y los [**Términos y condiciones de uso del sitio**](https://www.gob.mx/terminos).
 
 El primer campo obligatorio es ‘Nombre del proyecto’. Al escribir el nombre (en español) y pulsar el botón ‘Crear nuevo proyecto’, se habilitarán los demás campos para ingresar la información de su proyecto. Cuando la información que se captura es extraída de una publicación, ponga el título de la publicación.
 

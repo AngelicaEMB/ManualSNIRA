@@ -1,10 +1,6 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
-
 # Participación {.unnumbered}
+
+<br>
 
 Esta sección contiene dos subsecciones.
 En total, la sección comprende 14 campos, de los cuales **dos son obligatorios (<span style="color:red">\*</span>)**.

@@ -1,4 +1,7 @@
 # Descripción {.unnumbered}
+
+<br>
+
 Esta sección contiene seis subsecciones. En total, la sección comprende 49 campos, de los cuales **13 son estrictamente obligatorios  (<span style="color:red">\*</span>)**.
 
 Puede navegar y completar las subsecciones según el orden establecido por medio del botón ‘Siguiente’ que está ubicado en la parte inferior del lado izquierdo para asegurar completar todas las subsecciones y campos obligatorios. 

@@ -1,6 +1,10 @@
 #    Resultados y conclusiones  {.unnumbered}
 
+<br>
+
 La subsección comprende dos campos; ninguno es obligatorio.
+
+----
 
 ### Resultados generales del proyecto{.unnumbered}
 Escriba brevemente los principales resultados del proyecto.
@@ -9,6 +13,7 @@ Si copia información del documento, póngala entre comillas " " para indicar qu
 
 Si aún no cuenta con resultados, deje el campo vacío.
 
+----
 
 ### Conclusiones generales del proyecto{.unnumbered}
 Escriba brevemente las principales conclusiones del proyecto, incluye lecciones aprendidas, detección de vacíos de información.
@@ -17,6 +22,7 @@ Si copia información del documento, póngala entre comillas " " para indicar qu
 
 Si aún no cuenta con conclusiones o lecciones aprendidas, deje el campo vacío.
 
+----
 
 ### GUARDAR{.unnumbered}
 
@@ -27,4 +33,3 @@ En el caso de que todos los campos obligatorios hayan sido llenados, el sistema 
 Pulse el botón ‘Siguiente’ para pasar a la siguiente sección. 
 
 Si algún campo obligatorio se encuentra vacío, el botón ‘Guardar’ estará deshabilitado.
-

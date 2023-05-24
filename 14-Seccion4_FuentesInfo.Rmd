@@ -1,6 +1,10 @@
 # Fuentes de información {.unnumbered}
 
+<br>
+
 La subsección comprende dos campos; ninguno es obligatorio.
+
+----
 
 ### Referencia{.unnumbered}
 Escriba el apellido o título de la referencia; no use acentos ni tildes, p. ej., escriba Perez Gomez en vez de Pérez-Gómez. 
@@ -9,7 +13,9 @@ Al teclear la palabra, aparecerá una lista de 10 opciones que se actualiza conf
 
 Las referencias están integradas en y vinculadas al gestor bibliográfico de Zotero, manejado por la CONABIO. Actualmente, contiene casi 1,600 documentos, incluyendo artículos de revistas científicas y de divulgación, capítulo de libros, informes, tesis, entre otros que fueron publicados a partir de 1990.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen4.PNG){width="600"}
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen3.png){width="400"}
+
+----
 
 ### Referencia nueva{.unnumbered}
 En caso que no encuentre una referencia en la lista, por favor, escriba la referencia en formato APA. 
@@ -26,6 +32,7 @@ Puede utilizar el generador de citas [Scribbr](https://www.scribbr.es/citar/gene
 - Tesis: Apellido, A.A. (año de la publicación). Título de la tesis. Tesis de (grado académico). Institución de donde es egresado el autor o la autora. 
 - Informe: Apellido, A.A. (año de la publicación). Título del informe. Editorial. https://doi.org/xxx o http://xxx.
 
+----
 
 ### GUARDAR y terminar{.unnumbered}
 **Podrá editar la información las veces que sean necesarias mientras su proyecto esté en estatus ‘Edición’**, que puede ver en la sección 1: Información general, ubicado en la parte superior. Una vez que pulse el botón ‘Enviar a revisión mi proyecto’ que se encuentra al final de las cuatro secciones, es decir después la sección 4: Fuentes de información, automáticamente el estatus del proyecto cambiará a ‘En revisión’ y ya no será posible hacer cambios, al menos que haya campos obligatorios vacíos o el sistema encuentra inconsistencias en los datos capturados. Si requiere hacer algún cambio después de haber enviado el proyecto a revisión, deberá enviar un correo electrónico a **snira@conabio.gob.mx**.

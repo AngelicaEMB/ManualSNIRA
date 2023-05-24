@@ -1,6 +1,10 @@
 #  Instituciones involucradas en el proyecto {.unnumbered}
 
+<br>
+
 La subsección comprende seis campos; **si agrega una institución, tres de los campos son obligatorios (<span style="color:red">\*</span>)**. 
+
+----
 
 ### <span style="color:red">Tipo de iniciativa\*</span> {.unnumbered}
 El tipo de iniciativa hace referencia al sector de la sociedad que propuso y desarrolló  el  proyecto de restauración.
@@ -16,6 +20,8 @@ Seleccione todas las opciones que correspondan:
 - No determinado: Seleccione cuando no es posible identificar el tipo de iniciativa.
 - No aplica: Seleccione cuando ninguna de las otras opciones aplica. 
 
+----
+
 ### <span style="color:red">Tipo de colaboración\*</span> {.unnumbered}
 
 El tipo de colaboración se refiere a la participación o esfuerzo individual o colectivo entre personas, instituciones o países para el desarrollo de un proyecto de restauración; el tipo de colaboración está determinado por el alcance geográfico de la colaboración y acorde a los  objetivos establecidos en el proyecto.
@@ -30,11 +36,15 @@ Seleccione la opción que corresponda:
 - No determinado: Seleccione cuando no es posible identificar el tipo de iniciativa.
 - No aplica: Seleccione cuando ninguna de las otras opciones aplica.
 
+----
+
 ### Pulse ‘Agregar institución +’ {.unnumbered}
 para que se desplieguen los campos y pueda capturar los datos. Si no cuenta con información, puede saltarse esta parte. 
 **Si su proyecto se ubica en un área protegida, por favor agregue a la Comisión Nacional de Áreas Nacionales Protegidas.**
 
 Pulse ‘Eliminar’ sino va a capturar información.
+
+----
 
 ### <span style="color:red">Institución que participó / participa / participará en el proyecto\*</span> {.unnumbered}
 
@@ -44,17 +54,24 @@ Podrá agregar tantas instituciones como desee por medio del mismo botón.
 
 En caso de no encontrar la institución deseada, seleccione la opción de ‘----’ al inicio de la lista. 
  
+----
 
 #### En caso de no encontrar la institución, por favor indique el nombre.{.unnumbered}
 Campo de texto abierto que permite introducir el nombre de la institución y su dependencia, p. ej., Colegio de Postgraduados, Campus Montecillo, Instituto de Recursos Naturales, Laboratorio de Etnobotánica. 
+
+----
 
 ### <span style="color:red">Tipo de responsabilidad\*</span> {.unnumbered}
 Seleccione las opciones de la lista que correspondan.
 Seleccione ‘No determinado’ si no cuenta con la información. 
 Seleccione ‘No aplica’ cuando no aplique ninguna de las otras opciones de la lista.
 
+----
+
 ### Comentarios respecto a las instituciones involucradas{.unnumbered}
 Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto a las instituciones involucradas.
+
+----
 
 ### GUARDAR{.unnumbered}
 
@@ -65,6 +82,3 @@ En el caso de que todos los campos obligatorios hayan sido llenados, el sistema 
 Pulse el botón ‘Siguiente’ para pasar a la siguiente sección. 
 
 Si algún campo obligatorio se encuentra vacío, el botón ‘Guardar’ estará deshabilitado.
-
-
-

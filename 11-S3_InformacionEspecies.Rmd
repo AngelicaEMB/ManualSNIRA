@@ -1,5 +1,7 @@
 # Información de especies {.unnumbered}
 
+<br>
+
 Las especies incluyen a cualquier especie que fue / es /será usada para fines de restauración de proyectos prácticos y teóricos, p. ej., especies de Bursera que fueron usadas para evaluar su germinación y crecimiento en campo; especies de Acacia que serán modeladas bajo escenarios cambio climático; especies de corales que son observadas tras ser trasplantadas; especies de manglar que son evaluadas como biofiltros en humedales; o especies de mamíferos que fueron erradicadas de islas mexicanas.
 
 La información de las especies está vinculada con los Catálogos de Autoridades Taxonómicas (CAT) del Sistema Nacional de Información sobre Biodiversidad [(SNIB)](www.snib.mx) para obtener el nombre científico válido. 
@@ -12,10 +14,14 @@ Pulse ‘Eliminar’ sino va a capturar información.
 
 **En caso de que el proyecto no cuente con información de especies, puede omitir esta subsección; pulse directamente ‘Guardar’ y pase a la siguiente sección.*En caso de que el proyecto no cuente con información de especies, puede omitir esta subsección; pulse directamente ‘Guardar’ y pase a la siguiente sección**
 
+----
+
 ### <span style="color:red">Especie\*</span> {.unnumbered}
 Seleccione el nombre científico; al teclear el nombre, aparecerá una lista de 10 opciones que se actualiza conforme siga tecleando. Si la especie es un sinónimo, el nombre válido aparecerá entre paréntesis, p. ej., _Pinus bonapartea_ (_Pinus strobiformis_).
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen3.PNG){width="200"}
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen3.png){width="400"}
+
+----
 
 ### <span style="color:red">Uso de la especie\*</span> {.unnumbered}
 Seleccione una opción.
@@ -24,9 +30,12 @@ Seleccione una opción.
 - No utilizada pero evaluada y monitoreada: Especie que no fue usada para la restauración sino para evaluar el efecto o impacto de la restauración, p. ej., especies de aves y murciélagos monitoreadas en un gradiente sucesional de selva bajo diferentes esquemas de restauración; o _Leptoglossus occidentalis_, un insecto que afecta las semillas de _Pinus engelmannii_ (especie usada en la restauración).
 - Experimentación y otros usos: Especie que no se evalúa pero se usó/usa/usará en el proyecto, p. ej. hongos micorrízicos (ej. _Rhizophagus intraradices_) usados para inocular plantas usadas para la restauración.
 
+----
+
 ### Comentarios respecto a las especies y su uso en el proyecto {.unnumbered}
 Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto a las especies y su uso en el proyecto que considera importantes indicar.
 
+----
 
 ### GUARDAR {.unnumbered}
 
@@ -37,5 +46,3 @@ En el caso de que todos los campos obligatorios hayan sido llenados, el sistema 
 Pulse el botón ‘Siguiente’ para pasar a la siguiente sección. 
 
 Si algún campo obligatorio se encuentra vacío, el botón ‘Guardar’ estará deshabilitado.
-
-

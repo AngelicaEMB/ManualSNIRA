@@ -15,15 +15,14 @@ En caso que no encuentre una referencia en la lista, por favor, escriba la refer
 Si no cuenta con una publicación, puede incluir la referencia de otra evidencia disponible en línea, p. ej., video o documental. 
 En caso de no contar con algún material de referencia, escriba: Observación personal.
 
-Puede utilizar el generador de citas [Scribbr](https://www.scribbr.es/citar/generador/), que por medio del URL (sitio web, vídeo o artículo de noticias en línea), DOI (Artículo de revista) o   ISBN (libro) realiza la búsqueda y el despliegue de la referencia en formato APA.
+Puede utilizar el generador de citas [Scribbr](https://www.scribbr.es/citar/generador/){:target="_blank"}, que por medio del URL (sitio web, vídeo o artículo de noticias en línea), DOI (Artículo de revista) o   ISBN (libro) realiza la búsqueda y el despliegue de la referencia en formato APA.
 
-Consulte las [Normas APA 7.^a^edición](https://www.revista.unam.mx/wp-content/uploads/3_Normas-APA-7-ed-2019-11-6.pdf)este documento** para más información y ejemplos de la estructura del formato APA.
+Consulte las [Normas APA 7.^a^edición](https://www.revista.unam.mx/wp-content/uploads/3_Normas-APA-7-ed-2019-11-6.pdf){:target="_blank"} este documento** para más información y ejemplos de la estructura del formato APA.
 
-    - Artículo: Apellido, A.A. y Autor/a, B.B. (año de la publicación). Título del artículo. Título de la revista, Volumen (Número), Páginas (xx-xx). https://doi.org/xxx o http://xxx.
-    - Libro: Editor/a, E. E. y Editor/a, F. F. (eds.) (año de la publicación). Título del libro (edición). Editorial.
-    - Capítulo de libro: Apellido, A.A. del capítulo (año de la publicación). Título del capítulo. En Editor del libro (ed.). Título del libro (pp. xx-xx). Editorial.
-    - Tesis: Apellido, A.A. (año de la publicación). Título de la tesis. Tesis de (grado académico). Institución de donde es egresado el autor o la autora. 
-    - Informe: Apellido, A.A. (año de la publicación). Título del informe. Editorial. https://doi.org/xxx o http://xxx.
+- Artículo: Apellido, A.A. y Autor/a, B.B. (año de la publicación). Título del artículo. Título - Libro: Editor/a, E. E. y Editor/a, F. F. (eds.) (año de la publicación). Título del libro (edición). Editorial.
+- Capítulo de libro: Apellido, A.A. del capítulo (año de la publicación). Título del capítulo. En Editor del libro (ed.). Título del libro (pp. xx-xx). Editorial.
+- Tesis: Apellido, A.A. (año de la publicación). Título de la tesis. Tesis de (grado académico). Institución de donde es egresado el autor o la autora. 
+- Informe: Apellido, A.A. (año de la publicación). Título del informe. Editorial. https://doi.org/xxx o http://xxx.
 
 
 ### GUARDAR y terminar{.unnumbered}

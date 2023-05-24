@@ -2,7 +2,7 @@
 
 Las especies incluyen a cualquier especie que fue / es /será usada para fines de restauración de proyectos prácticos y teóricos, p. ej., especies de Bursera que fueron usadas para evaluar su germinación y crecimiento en campo; especies de Acacia que serán modeladas bajo escenarios cambio climático; especies de corales que son observadas tras ser trasplantadas; especies de manglar que son evaluadas como biofiltros en humedales; o especies de mamíferos que fueron erradicadas de islas mexicanas.
 
-La información de las especies está vinculada con los Catálogos de Autoridades Taxonómicas (CAT) del Sistema Nacional de Información sobre Biodiversidad [(SNIB)](www.snib.mx) para obtener el nombre científico válido. 
+La información de las especies está vinculada con los Catálogos de Autoridades Taxonómicas (CAT) del Sistema Nacional de Información sobre Biodiversidad [(SNIB)](www.snib.mx){:target="_blank"} para obtener el nombre científico válido. 
 
 Pulse el botón ‘Agregar especie +’ para que se desplieguen los campos y pueda capturar los datos. Podrá agregar tantas especies como desee a través del mismo botón.
 
@@ -10,7 +10,7 @@ La subsección comprende tres campos; si agrega una especie, **dos de los campos
 
 Pulse ‘Eliminar’ sino va a capturar información.
 
-***En caso de que el proyecto no cuente con información de especies, puede omitir esta subsección; pulse directamente ‘Guardar’ y pase a la siguiente sección.*En caso de que el proyecto no cuente con información de especies, puede omitir esta subsección; pulse directamente ‘Guardar’ y pase a la siguiente sección**
+**En caso de que el proyecto no cuente con información de especies, puede omitir esta subsección; pulse directamente ‘Guardar’ y pase a la siguiente sección.*En caso de que el proyecto no cuente con información de especies, puede omitir esta subsección; pulse directamente ‘Guardar’ y pase a la siguiente sección**
 
 ### <span style="color:red">Especie\*</span> {.unnumbered}
 Seleccione el nombre científico; al teclear el nombre, aparecerá una lista de 10 opciones que se actualiza conforme siga tecleando. Si la especie es un sinónimo, el nombre válido aparecerá entre paréntesis, p. ej., _Pinus bonapartea_ (_Pinus strobiformis_).

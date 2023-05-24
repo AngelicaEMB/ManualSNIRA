@@ -62,7 +62,7 @@ Campo de texto abierto que permite introducir el nombre del proyecto más amplio
 
 Escriba el objetivo general del proyecto y los particulares en caso que aplique. Si copia el objetivo de una publicación, póngalo entre comillas " " para indicar que es una cita textual. 
 
-Si los objetivos están en un idioma distinto al español, favor de traducirlos. Puede usar un servicio de traducción en línea (p.ej. Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), en caso de usar un servicio de traducción favor de indicar al final del resumen lo siguiente: ‘Traducido por XX´.
+Si los objetivos están en un idioma distinto al español, favor de traducirlos. Puede usar un servicio de traducción en línea (p.ej. Traductor de [Google](https://translate.google.com.mx/?hl=es){:target="_blank"} o [DeepL](https://www.deepl.com/es/translator){:target="_blank"}), en caso de usar un servicio de traducción favor de indicar al final del resumen lo siguiente: ‘Traducido por XX´.
 
 ![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/06_ObjProy.png){width="700"}
 
@@ -80,7 +80,7 @@ El enfoque o término capturado puede ser el mismo que se indique en el campo �
 
 
 Seleccione la opción que corresponda.
-Consulte el documento [**Enfoques y términos**](https://drive.google.com/file/d/1jmIbkg1UEZI-FfwHULiqkg-rUJExKsIc/view) para más información.
+Consulte el documento [**Enfoques y términos**](https://drive.google.com/file/d/1jmIbkg1UEZI-FfwHULiqkg-rUJExKsIc/view){:target="_blank"} para más información.
 
 - Regeneración natural: Proceso natural en áreas que pueden recuperar o restablecer por sí solas su estructura y composición florística (al menos parcialmente). 
 Los niveles de degradación generalmente son bajos, por lo que no se requiere intervención o los niveles de intervención son mínimos para reducir los factores de presión y amenaza.
@@ -105,7 +105,7 @@ Campo de texto abierto que permite introducir comentarios o proporcionar mayores
 Por favor, escriba un resumen.
 Para información extraída de una publicación, incluya el resumen entre comillas " " para indicar que es una cita textual. 
 
-Si el resumen está en un idioma distinto al español, favor de traducirlo. Puede usar un servicio de traducción disponible en línea (p.ej. Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), favor de indicar que fue ‘Traducido por XX´.
+Si el resumen está en un idioma distinto al español, favor de traducirlo. Puede usar un servicio de traducción disponible en línea (p.ej. Traductor de [Google](https://translate.google.com.mx/?hl=es){:target="_blank"} o [DeepL](https://www.deepl.com/es/translator){:target="_blank"}), favor de indicar que fue ‘Traducido por XX´.
 
 
 ### Palabras clave {.unnumbered}
@@ -192,7 +192,7 @@ Seleccione la unidad de la superficie intervenida:
 
 ### <span style="color:red">Indique si se usó / usa /usará un sitio, sistema o ecosistema de referencia\*</span> {.unnumbered}
 
-Un sitio o ecosistema de referencia corresponde a un área o ecosistema nativo sin degradación o con un nivel mínimo de degradación; por lo general, cuenta con la presencia de especies nativas y características ecológicas similares con las que contaba el sitio o área del proyecto de restauración previo a la degradación;  sirve p. ej. para evaluar el avance de la restauración. Para mayores detalles sobre las definiciones,  diferencias y relaciones entre sitio, modelo y ecosistema de referencia, por favor consulte los [Principios y estándares internacionales para la práctica de la restauración ecológica](https://cdn.ymaws.com/www.ser.org/resource/resmgr/Spanish_SER_International_St.pdf).
+Un sitio o ecosistema de referencia corresponde a un área o ecosistema nativo sin degradación o con un nivel mínimo de degradación; por lo general, cuenta con la presencia de especies nativas y características ecológicas similares con las que contaba el sitio o área del proyecto de restauración previo a la degradación;  sirve p. ej. para evaluar el avance de la restauración. Para mayores detalles sobre las definiciones,  diferencias y relaciones entre sitio, modelo y ecosistema de referencia, por favor consulte los [Principios y estándares internacionales para la práctica de la restauración ecológica](https://cdn.ymaws.com/www.ser.org/resource/resmgr/Spanish_SER_International_St.pdf){:target="_blank"}.
 
 Seleccione la opción que corresponda: 
 
@@ -213,7 +213,7 @@ Campo de texto abierto que permite introducir comentarios, opiniones, etc. respe
 
 Puede subir máximo cinco fotografías o ilustraciones con un peso de 5 MB por imagen de su sitio de estudio. Puede mostrar las condiciones ambientales antes o después de las acciones de la restauración o evidencia de las acciones; p. ej., la cobertura vegetal antes y después de la intervención, la macrofauna del suelo, evidencias de herbivoría, dunas costeras invadidas por especies exóticas, evidencia del trasplante de vegetación o sembrado de semillas.
 
-**Si desea que estas imágenes sean incluidas en el [Banco de imágenes de la Conabio](https://bdi.conabio.gob.mx/fotoweb/) siga las siguientes indicaciones. Por favor, envíe las imágenes en alta resolución (al menos 3500 pixeles por lado, en JPG o TIFF a 300 dpi o RAW) y la licencia de uso a los siguientes correos: bancoima@xolo.conabio.gob.mx y snira@conabio.gob.mx con "Imágenes en el SNIRA" como el asunto del correo electrónico.**
+**Si desea que estas imágenes sean incluidas en el [Banco de imágenes de la Conabio](https://bdi.conabio.gob.mx/fotoweb/){:target="_blank"} siga las siguientes indicaciones. Por favor, envíe las imágenes en alta resolución (al menos 3500 pixeles por lado, en JPG o TIFF a 300 dpi o RAW) y la licencia de uso a los siguientes correos: bancoima@xolo.conabio.gob.mx y snira@conabio.gob.mx con "Imágenes en el SNIRA" como el asunto del correo electrónico.**
 
 ### GUARDAR {.unnumbered}
 

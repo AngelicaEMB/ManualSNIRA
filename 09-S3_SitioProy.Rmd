@@ -14,12 +14,12 @@ Si no cuenta con la información, deje el campo vacío.
 
 ### <span style="color:red">Estado en el que se localiza el proyecto\*</span> {.unnumbered}
 Seleccione la opción que corresponda de la lista.
-Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/).
+Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/){:target="_blank"}.
 
 
 ### <span style="color:red">Municipio en el que se localiza el proyecto\*</span> {.unnumbered}
 Seleccione la opción que corresponda de la lista.
-Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/).
+Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/){:target="_blank"}.
 
 
 ### Coordenadas geográficas para localizar el sitio de estudio {.unnumbered}
@@ -31,7 +31,7 @@ Para el formato sexagesimal, por favor use las comillas simples ( ' ) y dobles (
 
 Las líneas de longitud van de norte a sur y miden los grados hacia el este o el oeste desde el meridiano 0 de Greenwich. Los valores pueden ir de -180 a +180°. Las líneas de latitud van de este a oeste y miden los grados hacia el norte o el sur desde el ecuador. Los valores van de +90° en el Polo Norte a -90° en el Polo Sur.. 
 
-Según el [**INEGI**](https://embamex.sre.gob.mx/eua/index.php/es/enterate/391-acerca-de-mexico#:~:text=Sur%3A%2014%C2%B0%2032%C2%B4,Guadalupe%2C%20en%20el%20Oc%C3%A9ano%20Pac%C3%ADfico.), las coordenadas extremas de México son:
+Según el [**INEGI**](https://embamex.sre.gob.mx/eua/index.php/es/enterate/391-acerca-de-mexico#:~:text=Sur%3A%2014%C2%B0%2032%C2%B4,Guadalupe%2C%20en%20el%20Oc%C3%A9ano%20Pac%C3%ADfico.){:target="_blank"}, las coordenadas extremas de México son:
 
     - Norte: 32° 43' 06"  latitud norte, en el Monumento 206, en la frontera con los Estados Unidos de América.
     - Sur: 14° 32' 27" latitud norte, en la desembocadura del río Suchiate, frontera con Guatemala.
@@ -53,7 +53,7 @@ El área de trabajo o los sitios de estudio se pueden representar mediante “pu
 
 En el caso de tratarse de un multipolígono, este será válido siempre y cuando el archivo tenga una única geometría, es decir que está conformado únicamente por polígonos o por puntos o por líneas. Es necesario que los objetos espaciales tengan el mismo nombre en un único archivo, de tal forma que todos los polígonos o puntos estén dentro de un mismo archivo kml o kmz. El nombre del archivo incluye el nombre de el/la la autora y el año de publicación o generación.
 
-**Para generar un kml o kmz, por favor siga las indicaciones [aquí](https://www.youtube.com/watch?v=3KQHmL2_omU).**
+**Para generar un kml o kmz, por favor siga las indicaciones [aquí](https://www.youtube.com/watch?v=3KQHmL2_omU){:target="_blank"}.**
 
 ### <span style="color:red">Ambiente\*</span> {.unnumbered}
 Seleccione todas las opciones que correspondan:
@@ -69,13 +69,13 @@ Seleccione todas las opciones que correspondan:
 
 ### <span style="color:red">Ecosistema\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
-Fuente de información: [CONABIO](https://www.biodiversidad.gob.mx/ecosistemas/ecosismex).
+Fuente de información: [CONABIO](https://www.biodiversidad.gob.mx/ecosistemas/ecosismex){:target="_blank"}.
 Seleccione ‘No aplica’ cuando ninguna de las opciones aplica.
 Seleccione ‘No determinado’ cuando no es posible identificar el ecosistema.
 
 
 ### <span style="color:red">Tipo de vegetación\*</span> {.unnumbered}
-Las opciones de respuesta presentan dos niveles jerárquicos, por lo que podrá seleccionar los tipos de vegetación agrupados (escritos en letras mayúsculas; fuente de información: [CONABIO](https://www.biodiversidad.gob.mx/ecosistemas/ecosismex)) o los tipos de vegetación de acuerdo con el [INEGI](https://www.inegi.org.mx/temas/usosuelo/#Documentacion) (escritos en letras minúsculas). Por ejemplo, el MATORRAL XERÓFILO incluye al Mezquital, Matorral crasicaule, Matorral desértico micrófilo, Matorral desértico rosetófilo, etc. 
+Las opciones de respuesta presentan dos niveles jerárquicos, por lo que podrá seleccionar los tipos de vegetación agrupados (escritos en letras mayúsculas; fuente de información: [CONABIO](https://www.biodiversidad.gob.mx/ecosistemas/ecosismex){:target="_blank"}) o los tipos de vegetación de acuerdo con el [INEGI](https://www.inegi.org.mx/temas/usosuelo/#Documentacion){:target="_blank"} (escritos en letras minúsculas). Por ejemplo, el MATORRAL XERÓFILO incluye al Mezquital, Matorral crasicaule, Matorral desértico micrófilo, Matorral desértico rosetófilo, etc. 
 
 Seleccione todas las opciones de la lista que correspondan. Podrá seleccionar tanto los tipos de vegetación como los agrupados . 
 Seleccione ‘No determinado’ cuando no es posible determinar el tipo de vegetación.
@@ -89,7 +89,7 @@ Escriba el tipo de vegetación cuando no aparece en el catálogo o quiera dar m�
 Por favor, primero elija el sistema de clasificación y luego seleccione el tipo de suelo. Solo podrá elegir un sistema de clasificación para capturar los datos del tipo de suelo.  
 
 #### <span style="color:red">Sistema de clasificación\*</span> {.unnumbered}
-Seleccione la opción de la lista que corresponda. Fuentes de información: [INEGI](https://www.inegi.org.mx/temas/edafologia/), [WRB](https://www.isric.org/explore/wrb#:~:text=WRB%20is%20a%20two%2Dtier,expression%20of%20certain%20soil%20features.) y  [USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-taxonomy).
+Seleccione la opción de la lista que corresponda. Fuentes de información: [INEGI](https://www.inegi.org.mx/temas/edafologia/){:target="_blank"}, [WRB](https://www.isric.org/explore/wrb#:~:text=WRB%20is%20a%20two%2Dtier,expression%20of%20certain%20soil%20features.){:target="_blank"} y  [USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-taxonomy){:target="_blank"}.
 
 Seleccione ‘No determinado’ cuando no es posible determinar el sistema de clasificación y tipo de suelo.
 Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
@@ -117,7 +117,7 @@ Seleccione la opción de la lista que corresponda.
 
 
 #### <span style="color:red">Nombre del área protegida\*</span> {.unnumbered}
-Seleccione la opción de la lista que corresponda que se generó a partir de la selección del estado y ámbito de jurisdicción. Fuente de información: [Conanp](http://sig.conanp.gob.mx/website/pagsig/listanp/).
+Seleccione la opción de la lista que corresponda que se generó a partir de la selección del estado y ámbito de jurisdicción. Fuente de información: [Conanp](http://sig.conanp.gob.mx/website/pagsig/listanp/){:target="_blank"}.
  
 
 ### <span style="color:red">Principales causas de la degradación\*</span> {.unnumbered}

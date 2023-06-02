@@ -1,4 +1,4 @@
-# Descripción {.unnumbered}
+# Descripción 
 
 <br>
 

@@ -1,4 +1,4 @@
-# Información general {.unnumbered}
+# Información general 
 
 <br>
 
@@ -37,7 +37,6 @@ Seleccione la opción que corresponda:
 - Práctico: Hace referencia a proyectos que implementan acciones de restauración  campo.
 - Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/04.2_TipoProy.png){width="660"}
 
 ----
 
@@ -47,11 +46,11 @@ Seleccione la opción que corresponda:
 
 - No: Refiere a un proyecto que se registra de forma individual y hasta donde se sabe no forma parte de un proyecto general (p. ej., Restoration planning to guide Aichi targets in a megadiverse country).
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/05.1_ProyeAmplio.png){width="660"} 
+ 
 
 - Sí: Refiere a un programa o proyecto general que incluye proyectos específicos (p. ej., Proyecto GEF-Invasoras 'Aumentar las Capacidades Nacionales para el Manejo de las Especies Exóticas Invasoras (EEI) a través de la Implementación de la Estrategia Nacional de EEI' o Programas de Acción para la Conservación de Especie (PACE)).
 
-En caso de que sí forme parte de un proyecto más amplio Seleccione la opción que corresponda de la lista.
+En caso de que sí forme parte de un proyecto más amplio, seleccione la opción que corresponda de la lista.
 
 ----
 
@@ -69,17 +68,17 @@ Campo de texto abierto que permite introducir el nombre del proyecto más amplio
 
 ----
 
-### <span style="color:red">Objetivo de proyecto\*</span> {.unnumbered}
+### <span style="color:red">Objetivo del proyecto\*</span> {.unnumbered}
 
 Escriba el objetivo general del proyecto y los particulares en caso que aplique. Si copia el objetivo de una publicación, póngalo entre comillas " " para indicar que es una cita textual. 
 
-Si los objetivos están en un idioma distinto al español, favor de traducirlos. Puede usar un servicio de traducción en línea (p.ej. Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator), en caso de usar un servicio de traducción favor de indicar al final del resumen lo siguiente: ‘Traducido por XX´.
+Si los objetivos están en un idioma distinto al español, favor de traducirlos. Puede usar un servicio de traducción en línea (p.ej., Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), en caso de usar un servicio de traducción favor de indicar al final del resumen lo siguiente: ‘Traducido por XX´.
 
 ![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/06_ObjProy.png){width="700"}
 
 ----
 
-### <span style="color:red">Enfoque del proyecto según la persona usuaria\*</span> {.unnumbered}
+### Enfoque del proyecto según la persona usuaria\* {.unnumbered}
 
 El enfoque se refiere al planteamiento general de su proyecto, p. ej., recuperación del suelo; plantación experimental con fines de restauración. El enfoque es establecido por el criterio y conocimiento de la persona usuaria.
 
@@ -221,7 +220,7 @@ Seleccione la unidad de la superficie intervenida:
 
 ----
 
-### <span style="color:red">Indique si se usó / usa /usará un sitio, sistema o ecosistema de referencia\*</span> {.unnumbered}
+### <span style="color:red">Indique si se usó / usa / usará un sitio, sistema o ecosistema de referencia\*</span> {.unnumbered}
 
 Un sitio o ecosistema de referencia corresponde a un área o ecosistema nativo sin degradación o con un nivel mínimo de degradación; por lo general, cuenta con la presencia de especies nativas y características ecológicas similares con las que contaba el sitio o área del proyecto de restauración previo a la degradación;  sirve p. ej. para evaluar el avance de la restauración. Para mayores detalles sobre las definiciones,  diferencias y relaciones entre sitio, modelo y ecosistema de referencia, por favor consulte los [Principios y estándares internacionales para la práctica de la restauración ecológica](https://cdn.ymaws.com/www.ser.org/resource/resmgr/Spanish_SER_International_St.pdf).
 
@@ -234,7 +233,7 @@ Seleccione la opción que corresponda:
 
 ----
 
-### Comentarios respecto al sitio sistema o ecosistema de referencia {.unnumbered}
+### Comentarios respecto al sitio, sistema o ecosistema de referencia {.unnumbered}
 
 Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto al sitio, sistema o ecosistema de referencia.
 
@@ -250,7 +249,7 @@ Campo de texto abierto que permite introducir comentarios, opiniones, etc. respe
 
 Puede subir máximo cinco fotografías o ilustraciones con un peso de 5 MB por imagen de su sitio de estudio. Puede mostrar las condiciones ambientales antes o después de las acciones de la restauración o evidencia de las acciones; p. ej., la cobertura vegetal antes y después de la intervención, la macrofauna del suelo, evidencias de herbivoría, dunas costeras invadidas por especies exóticas, evidencia del trasplante de vegetación o sembrado de semillas.
 
-**Si desea que estas imágenes sean incluidas en el [Banco de imágenes de la Conabio](https://bdi.conabio.gob.mx/fotoweb/) siga las siguientes indicaciones. Por favor, envíe las imágenes en alta resolución (al menos 3500 pixeles por lado, en JPG o TIFF a 300 dpi o RAW) y la licencia de uso a los siguientes correos: bancoima@xolo.conabio.gob.mx y snira@conabio.gob.mx con "Imágenes en el SNIRA" como el asunto del correo electrónico.**
+**Si desea que estas imágenes sean incluidas en el [Banco de imágenes de la Conabio](https://bdi.conabio.gob.mx/fotoweb/) siga las siguientes indicaciones. Por favor, envíe las imágenes en alta resolución (al menos 3500 pixeles por lado, en JPG o TIFF a 300 dpi o RAW) y la [licencia de uso](https://docs.google.com/document/d/1CJA0fytTKF3pLVnFdlBK0gG5upLSupsU/edit) a los siguientes correos: bancoima@xolo.conabio.gob.mx y snira@conabio.gob.mx con "Imágenes en el SNIRA" como el asunto del correo electrónico.**
 
 ----
 

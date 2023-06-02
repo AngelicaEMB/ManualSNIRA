@@ -41,7 +41,7 @@ El primer campo obligatorio es ‘Nombre del proyecto’. Al escribir el nombre 
 
 ----
 
-## Ventana de Inicio {.unnumbered}
+## Ventana de inicio {.unnumbered}
 
 Después de ingresar el nombre del proyecto, mismo que podrá editar posteriormente si así lo desea, aparecerá la ventana principal donde podrá navegar entre secciones
 

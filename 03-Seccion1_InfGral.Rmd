@@ -78,7 +78,7 @@ Si los objetivos están en un idioma distinto al español, favor de traducirlos.
 
 ----
 
-### Enfoque del proyecto según la persona usuaria\* {.unnumbered}
+### Enfoque del proyecto según la persona usuaria {.unnumbered}
 
 El enfoque se refiere al planteamiento general de su proyecto, p. ej., recuperación del suelo; plantación experimental con fines de restauración. El enfoque es establecido por el criterio y conocimiento de la persona usuaria.
 

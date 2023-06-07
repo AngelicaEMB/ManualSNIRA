@@ -7,7 +7,14 @@ Pulse  ‘Agregar sitio +’ para que se desplieguen los campos y pueda capturar
 
 Podrá agregar tantos sitios como desee a través del mismo botón. 
 
-Pulse ‘Eliminar’ sino va a capturar información.
+Pulse ‘Eliminar’ si no va a capturar información.
+
+Pulse ‘Agregar sitio’ si va a capturar información.
+
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen10.png){width="200"}
+
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen11.png){width="700"}
+
 
 ----
 
@@ -34,7 +41,7 @@ Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/).
 
 Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 21.161908) o sexagesimal (p. ej.,  21° 90' 43" N).
 
-Para el formato sexagesimal, por favor use las comillas simples ( ' ) y dobles ( " ). Además, deberá agregar una ‘N’ al final de los valores de latitud (p. ej. 21° 90' 43" N) y ‘O’ al final de la longitud (p. ej., 86° 51' 60" O). Si usa cualquier otro símbolo parecido o no incluye la letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección.
+Para el formato sexagesimal, por favor use las **comillas simples ( ' ) y dobles ( " )**. Además, deberá agregar una ‘N’ al final de los valores de latitud (p. ej. 21° 90' 43" N) y ‘O’ al final de la longitud (p. ej., 86° 51' 60" O). Si usa cualquier otro símbolo parecido o no incluye la letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección.
 
 Las líneas de longitud van de norte a sur y miden los grados hacia el este o el oeste desde el meridiano 0 de Greenwich. Los valores pueden ir de -180 a +180°. Las líneas de latitud van de este a oeste y miden los grados hacia el norte o el sur desde el ecuador. Los valores van de +90° en el Polo Norte a -90° en el Polo Sur.. 
 
@@ -66,7 +73,7 @@ El área de trabajo o los sitios de estudio se pueden representar mediante “pu
 
 En el caso de tratarse de un multipolígono, este será válido siempre y cuando el archivo tenga una única geometría, es decir que está conformado únicamente por polígonos o por puntos o por líneas. Es necesario que los objetos espaciales tengan el mismo nombre en un único archivo, de tal forma que todos los polígonos o puntos estén dentro de un mismo archivo kml o kmz. El nombre del archivo incluye el nombre de el/la la autora y el año de publicación o generación.
 
-**Para generar un kml o kmz, por favor siga las indicaciones [aquí](https://www.youtube.com/watch?v=3KQHmL2_omU).**
+**Para generar un kml o kmz, por favor siga las indicaciones [aquí](https://www.youtube.com/watch?v=j_SHMEp3bao).**
 
 ----
 
@@ -99,6 +106,9 @@ Seleccione todas las opciones de la lista que correspondan. Podrá seleccionar t
 Seleccione ‘No determinado’ cuando no es posible determinar el tipo de vegetación.
 Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
 
+
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen12.png){width="250"}
+
 ----
 
 ### Observaciones sobre la vegetación{.unnumbered}
@@ -108,6 +118,8 @@ Escriba el tipo de vegetación cuando no aparece en el catálogo o quiera dar m�
 
 ### <span style="color:red">Tipo de suelo\*</span> {.unnumbered}
 Por favor, primero elija el sistema de clasificación y luego seleccione el tipo de suelo. Solo podrá elegir un sistema de clasificación para capturar los datos del tipo de suelo.  
+
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen13.png){width="700"}
 
 ----
 
@@ -122,6 +134,8 @@ Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
 #### Tipo de suelo{.unnumbered}
 Seleccione todas las opciones de la lista que correspondan conforme al sistema de clasificación seleccionado. 
 
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen16.png){width="700"}
+
 ----
 
 ### Observaciones sobre el tipo de suelo{.unnumbered}
@@ -131,6 +145,10 @@ Escriba el tipo de suelo cuando no aparece en el catálogo o quiera dar más det
 
 ### Área protegida {.unnumbered}
 Si su proyecto de restauración se localiza en un área protegida, seleccione el botón ‘Área protegida +’. A continuación, se desplegarán campos relacionados para la localización del área protegida. 
+
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen14.png){width="200"}
+
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen15.png){width="400"}
 
 ----
 

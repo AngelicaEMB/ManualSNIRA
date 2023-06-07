@@ -1,4 +1,5 @@
 información-general
 participación
+lista-de-instituciones
 descripción
 fuentes-de-información

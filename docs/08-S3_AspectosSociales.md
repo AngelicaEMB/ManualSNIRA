@@ -16,6 +16,8 @@ Seleccione la opción que corresponda:
 
 **Si seleccionó la opción ´Sí’, se habilitará el siguiente campo**:
 
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen9.png){width="700"}
+
 ----
 
 ### Indique ¿en qué etapa del proyecto hubo/hay/habrá participación social? {.unnumbered}

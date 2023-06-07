@@ -32,6 +32,10 @@ Podrá agregar tantos sitios como desee a través del mismo botón.
 
 Pulse ‘Eliminar’ sino va a capturar información.
 
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen17.png){width="200"}
+
+![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen18.png){width="700"}
+
 ----
 
 #### <span style="color:red">Indicador de monitoreo\*</span> {.unnumbered}

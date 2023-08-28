@@ -39,9 +39,9 @@ Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/).
 ### Coordenadas geográficas para localizar el sitio de estudio {.unnumbered}
 **Latitud y Longitud**
 
-Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 21.161908) o sexagesimal (p. ej.,  21° 90' 43" N).
+Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 21.161908) o sexagesimal (p. ej.,  Lat: 21°90'43"; Long: 86°51'60").
 
-Para el formato sexagesimal, por favor use las **comillas simples ( ' ) y dobles ( " )**. Además, deberá agregar una ‘N’ al final de los valores de latitud (p. ej. 21° 90' 43" N) y ‘O’ al final de la longitud (p. ej., 86° 51' 60" O). Si usa cualquier otro símbolo parecido o no incluye la letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección.
+Para el formato sexagesimal, por favor use las **comillas simples ( ' ) y dobles ( " )**. Si usa cualquier otro símbolo parecido o no incluye la letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección.
 
 Las líneas de longitud van de norte a sur y miden los grados hacia el este o el oeste desde el meridiano 0 de Greenwich. Los valores pueden ir de -180 a +180°. Las líneas de latitud van de este a oeste y miden los grados hacia el norte o el sur desde el ecuador. Los valores van de +90° en el Polo Norte a -90° en el Polo Sur.. 
 
@@ -126,7 +126,7 @@ Por favor, primero elija el sistema de clasificación y luego seleccione el tipo
 #### <span style="color:red">Sistema de clasificación\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda. Fuentes de información: [INEGI](https://www.inegi.org.mx/temas/edafologia/), [WRB](https://www.isric.org/explore/wrb#:~:text=WRB%20is%20a%20two%2Dtier,expression%20of%20certain%20soil%20features.) y  [USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-taxonomy).
 
-Seleccione ‘No determinado’ cuando no es posible determinar el sistema de clasificación y tipo de suelo.
+Seleccione ‘No determinado’ cuando no es posible determinar el sistema de clasificación y tipo de suelo o no se cuenta con la información.
 Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
 
 ----
@@ -162,14 +162,14 @@ Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
 #### <span style="color:red">Ámbito de jurisdicción\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda. 
 
-- Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. Actualmente la Comisión Nacional de Áreas Naturales Protegidas (Conanp) administra 185 Áreas Naturales Protegidas de carácter federal.
+- Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. La lista contiene 185 Áreas Naturales Protegidas de carácter federal administradas por la Comisión Nacional de Áreas Naturales Protegidas. Fuente de información: Conanp, 2022.
 - Área protegida subnacional: Áreas protegidas a nivel estatal, municipal, comunitario, ejidal o privadas.
 - Área destinada voluntariamente a la conservación (ADVC): Áreas protegidas que pueblos indígenas, organizaciones sociales, personas físicas o morales han destinado de manera voluntaria a la conservación.
 
 ----
 
 #### <span style="color:red">Nombre del área protegida\*</span> {.unnumbered}
-Seleccione la opción de la lista que corresponda que se generó a partir de la selección del estado y ámbito de jurisdicción. Fuente de información: [Conanp](http://sig.conanp.gob.mx/website/pagsig/listanp/).
+Seleccione la opción de la lista que corresponda que se generó a partir de la selección del estado y ámbito de jurisdicción. 
  
 ----
 

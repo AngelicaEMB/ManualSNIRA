@@ -34,7 +34,7 @@ En caso de que el título de la publicación esté en español, no es necesario 
 Seleccione la opción que corresponda:
 
 - Teórico:  Hace referencia a proyectos de experimentación en laboratorio o vivero, revisión de literatura, meta-análisis, estudios de percepción, modelación, desarrollo de plan de manejo, entre otros.
-- Práctico: Hace referencia a proyectos que implementan acciones de restauración  campo.
+- Práctico: Hace referencia a proyectos que implementan acciones de restauración  campo; incluye acciones que contribuyan a reducir la degradación o restaurar un sitio y recuperar un ecosistema o sitio particular.
 - Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo.
 
 

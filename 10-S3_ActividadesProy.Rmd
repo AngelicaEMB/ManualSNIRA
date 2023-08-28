@@ -24,11 +24,11 @@ Escriba las actividades de restauración si no aparecen en el catálogo o quiera
 ----
 
 ### Indicadores de monitoreo {.unnumbered}
-El monitoreo se refiere a una actividad crítica que implica la recolección continua y análisis de información que permite supervisar, evaluar y dar seguimiento a un proyecto en relación a sus objetivos y metas.
+El monitoreo es un componente fundamental que implica la recolección continua de datos y el análisis de información para supervisar, evaluar y dar seguimiento a un proyecto en relación a sus objetivos y metas.
 
 Pulse el botón ‘Agregar indicador de monitoreo +’ para que se desplieguen los campos y pueda capturar los datos. Si no cuenta con información, puede saltarse esta parte. 
 
-Podrá agregar tantos sitios como desee a través del mismo botón. 
+Podrá agregar tantos sitios como desee por medio del mismo botón. 
 
 Pulse ‘Eliminar’ sino va a capturar información.
 

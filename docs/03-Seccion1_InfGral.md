@@ -33,8 +33,8 @@ En caso de que el título de la publicación esté en español, no es necesario 
 
 Seleccione la opción que corresponda:
 
-- Teórico:  Hace referencia a proyectos de experimentación en laboratorio o vivero, revisión de literatura, meta-análisis, entrevistas, modelación, desarrollo de plan de manejo, entre otros.
-- Práctico: Hace referencia a proyectos que implementan acciones de restauración  campo.
+- Teórico:  Hace referencia a proyectos de experimentación en laboratorio o vivero, revisión de literatura, meta-análisis, estudios de percepción, modelación, desarrollo de plan de manejo, entre otros.
+- Práctico: Hace referencia a proyectos que implementan acciones de restauración  campo; incluye acciones que contribuyan a reducir la degradación o restaurar un sitio y recuperar un ecosistema o sitio particular.
 - Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo.
 
 
@@ -72,7 +72,7 @@ Campo de texto abierto que permite introducir el nombre del proyecto más amplio
 
 Escriba el objetivo general del proyecto y los particulares en caso que aplique. Si copia el objetivo de una publicación, póngalo entre comillas " " para indicar que es una cita textual. 
 
-Si los objetivos están en un idioma distinto al español, favor de traducirlos. Puede usar un servicio de traducción en línea (p.ej., Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), en caso de usar un servicio de traducción favor de indicar al final del resumen lo siguiente: ‘Traducido por XX´.
+Si los objetivos están en un idioma distinto al español, favor de traducirlos. Puede usar un servicio de traducción en línea (p.ej., Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), en caso de usar un servicio de traducción favor de indicar al final del resumen lo siguiente: (Traducido por XX).
 
 ![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/06_ObjProy.png){width="700"}
 
@@ -220,7 +220,7 @@ Seleccione la unidad de la superficie intervenida:
 
 ----
 
-### <span style="color:red">Indique si se usó / usa / usará un sitio, sistema o ecosistema de referencia\*</span> {.unnumbered}
+### <span style="color:red">Indique si se usó un sitio, sistema o ecosistema de referencia\*</span> {.unnumbered}
 
 Un sitio o ecosistema de referencia corresponde a un área o ecosistema nativo sin degradación o con un nivel mínimo de degradación; por lo general, cuenta con la presencia de especies nativas y características ecológicas similares con las que contaba el sitio o área del proyecto de restauración previo a la degradación;  sirve p. ej. para evaluar el avance de la restauración. Para mayores detalles sobre las definiciones,  diferencias y relaciones entre sitio, modelo y ecosistema de referencia, por favor consulte los [Principios y estándares internacionales para la práctica de la restauración ecológica](https://cdn.ymaws.com/www.ser.org/resource/resmgr/Spanish_SER_International_St.pdf).
 
@@ -262,4 +262,3 @@ En el caso de que todos los campos obligatorios hayan sido llenados, el sistema 
 Pulse el botón ‘Siguiente’ para pasar a la siguiente sección. 
 
 Si algún campo obligatorio se encuentra vacío, el botón ‘Guardar’ estará deshabilitado.
-

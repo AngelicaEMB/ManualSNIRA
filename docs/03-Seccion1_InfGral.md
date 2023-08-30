@@ -38,6 +38,7 @@ Seleccione la opción que corresponda:
 - Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo;  incluye acciones que contribuyan a reducir la degradación o restaurar un sitio y recuperar un ecosistema o sitio particular.
 
 
+
 ----
 
 ### <span style="color:red">¿El proyecto forma parte de un proyecto más amplio?\*</span> {.unnumbered}
@@ -262,4 +263,3 @@ En el caso de que todos los campos obligatorios hayan sido llenados, el sistema 
 Pulse el botón ‘Siguiente’ para pasar a la siguiente sección. 
 
 Si algún campo obligatorio se encuentra vacío, el botón ‘Guardar’ estará deshabilitado.
-

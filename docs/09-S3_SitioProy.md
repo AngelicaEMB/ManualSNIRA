@@ -39,6 +39,7 @@ Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/).
 ### Coordenadas geográficas para localizar el sitio de estudio {.unnumbered}
 **Latitud y Longitud**
 
+
 Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 21.161908) o sexagesimal (p. ej., Lat: 21°90'43"; Long: 86°51'60").
 
 Para el formato sexagesimal, por favor use las **comillas simples ( ' ) y dobles ( " )**. Si usa cualquier otro símbolo parecido o no incluye la letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección.
@@ -129,6 +130,7 @@ Seleccione la opción de la lista que corresponda. Fuentes de información: [INE
 Seleccione ‘No determinado’ cuando no es posible determinar el sistema de clasificación y tipo de suelo o no se cuenta con la información.
 Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
+
 ----
 
 #### Tipo de suelo{.unnumbered}
@@ -162,17 +164,18 @@ Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 #### <span style="color:red">Ámbito de jurisdicción\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda. 
 
+
 - Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. Actualmente la Comisión Nacional de Áreas Naturales Protegidas (Conanp) administra 185 Áreas Naturales Protegidas de carácter federal administradas por la Comisión Nacional de Áreas Naturales Protegidas. Fuente de información: [Conanp, 2022](http://geoportal.conabio.gob.mx/metadatos/doc/html/anp2022gw.html#idinfo).
 
 - Área protegida subnacional: Áreas protegidas a nivel estatal, municipal,  comunitario, ejidal o privadas. Fuente de la información: [Conabio 2020](http://geoportal.conabio.gob.mx/metadatos/doc/html/anpest20gw.html)
 
-
 - Área destinada voluntariamente a la conservación (ADVC): Áreas protegidas que pueblos indígenas, organizaciones sociales, personas físicas o morales han destinado de manera voluntaria a la conservación. Fuente de la información: [Conanp, 2022](http://geoportal.conabio.gob.mx/#!l=advc2022gw@m=mixto)
+
 
 ----
 
 #### <span style="color:red">Nombre del área protegida\*</span> {.unnumbered}
-Seleccione la opción de la lista que corresponda que se generó a partir de la selección del estado y ámbito de jurisdicción. Fuente de información: [Conanp](http://sig.conanp.gob.mx/website/pagsig/listanp/).
+Seleccione la opción de la lista que corresponda que se generó a partir de la selección del estado y ámbito de jurisdicción. 
  
 ----
 

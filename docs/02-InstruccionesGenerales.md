@@ -10,7 +10,7 @@ En la medida de lo posible, los campos incluyen catálogos de vocabulario contro
 
 Si no encuentra una opción de respuesta que aplique a su proyecto, puede escribir su respuesta en los campos de texto abierto correspondientes, estos campos sirven para poder proporcionar mayor detalle o escribir comentarios. Los campos de texto abierto se encuentran en todas las secciones y subsecciones del sistema.
 
-Por favor, escriba y capture los datos en español. Si copia información de un documento, póngala entre comillas (" ") para indicar que es una cita textual. Si la información está en un idioma distinto al español, favor de traducirla; se puede usar el servicio de traducción como [Google](https://translate.google.com.mx/?hl=es), [DeepL](https://www.deepl.com/es/translator) u otro para apoyar con la traducción de textos al español.  En caso de usar un servicio de traducción, favor de indicar al final del texto lo siguiente: ‘Traducido por XX´.
+Por favor, escriba y capture los datos en español. Si copia información de un documento, póngala entre comillas (" ") para indicar que es una cita textual. Si la información está en un idioma distinto al español, favor de traducirla; se puede usar el servicio de traducción como [Google](https://translate.google.com.mx/?hl=es), [DeepL](https://www.deepl.com/es/translator) u otro para apoyar con la traducción de textos al español.  En caso de usar un servicio de traducción, favor de indicar al final del texto lo siguiente: (Traducido por XX).
 
 ----
 
@@ -37,7 +37,7 @@ En esta sección encontrará las instrucciones para la captura de la informació
 
 El primer campo obligatorio es ‘Nombre del proyecto’. Al escribir el nombre (en español) y pulsar el botón ‘Crear nuevo proyecto’, se habilitarán los demás campos para ingresar la información de su proyecto. Cuando la información que se captura es extraída de una publicación, ponga el título de la publicación.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen1.png){width="650"}
+![](images/Imagen1.png){width="650"}
 
 ----
 
@@ -45,4 +45,4 @@ El primer campo obligatorio es ‘Nombre del proyecto’. Al escribir el nombre 
 
 Después de ingresar el nombre del proyecto, mismo que podrá editar posteriormente si así lo desea, aparecerá la ventana principal donde podrá navegar entre secciones
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/01_Inicio.png){width="700"}
+![](images/01_Inicio.png){width="700"}

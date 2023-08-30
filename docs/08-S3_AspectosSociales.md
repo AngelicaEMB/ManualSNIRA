@@ -12,11 +12,11 @@ Seleccione la opción que corresponda:
 - Sí: Afirma que hubo, hay o habrá participación social en el proyecto.
 - No: No hubo, no hay o no habrá participación social en el proyecto.
 - No determinado: Seleccione cuando no es posible identificar si hubo, hay o habrá participación social.
-- No aplica: Seleccione cuando ninguna de las otras opciones aplica.
+- No aplica: Seleccione cuando no es aplicable a su proyecto.
 
 **Si seleccionó la opción ´Sí’, se habilitará el siguiente campo**:
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen9.png){width="700"}
+![](images/Imagen9.png){width="700"}
 
 ----
 
@@ -40,7 +40,7 @@ Seleccione la opción que corresponda:
 - Sí: Afirma que hubo, hay o habrá objetivos establecidos por la comunidad.
 - No: No hubo, no hay o no habrá objetivos establecidos por la comunidad.
 - No determinado: Seleccione cuando no es posible identificar si hubo, hay o habrá objetivos establecidos por la comunidad.
-- No aplica: Seleccione cuando ninguna de las otras opciones aplica.
+- No aplica: Seleccione cuando no es aplicable a su proyecto.
 
 ----
 
@@ -57,7 +57,7 @@ Seleccione la opción que corresponda:
 - Sí: Afirma que se consideraron/consideran/considerarán conocimientos locales o tradicionales en el proyecto.
 - No: No se consideraron/consideran/considerarán conocimientos locales o tradicionales en el proyecto.
 - No determinado: Seleccione cuando no es posible identificar si se consideraron / consideran / considerarán conocimientos locales o tradicionales en el proyecto.
-- No aplica: Seleccione cuando ninguna de las otras opciones aplica.
+- No aplica: Seleccione cuando no es aplicable a su proyecto.
 
 ----
 

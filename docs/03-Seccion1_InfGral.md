@@ -6,7 +6,7 @@ La sección comprende 25 campos, de los cuales **7 son obligatorios** (<span sty
 
 Los campos de ‘Identificador único’ y ‘Estatus', ubicados en la parte superior, son asignados automáticamente y no pueden ser modificados por las personas usuarias.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/02_Identificador.png){width="500"}
+![](images/02_Identificador.png){width="500"}
 
 ----
 
@@ -17,7 +17,7 @@ Escriba el nombre de un proyecto en español (p. ej., Programa Nacional para la 
 Si el nombre de la publicación o del proyecto está en un idioma distinto, favor de traducirlo y escribir el nombre original en el siguiente campo “Nombre original del proyecto”.
 
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/03_NomProy.png){width="700"}
+![](images/03_NomProy.png){width="700"}
 
 ----
 
@@ -34,8 +34,9 @@ En caso de que el título de la publicación esté en español, no es necesario 
 Seleccione la opción que corresponda:
 
 - Teórico:  Hace referencia a proyectos de experimentación en laboratorio o vivero, revisión de literatura, meta-análisis, estudios de percepción, modelación, desarrollo de plan de manejo, entre otros.
-- Práctico: Hace referencia a proyectos que implementan acciones de restauración  campo; incluye acciones que contribuyan a reducir la degradación o restaurar un sitio y recuperar un ecosistema o sitio particular.
-- Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo.
+- Práctico: Hace referencia a proyectos que implementan acciones de restauración  campo.
+- Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo;  incluye acciones que contribuyan a reducir la degradación o restaurar un sitio y recuperar un ecosistema o sitio particular.
+
 
 
 ----
@@ -57,14 +58,14 @@ En caso de que sí forme parte de un proyecto más amplio, seleccione la opción
 #### Seleccione el nombre del proyecto más amplio{.unnumbered}
 Seleccione la opción de la lista que corresponda. Si el nombre del proyecto no aparece en la lista, favor de capturarlo en el siguiente campo.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/05.2_ProyeAmplio.png){width="660"} 
+![](images/05.2_ProyeAmplio.png){width="660"} 
 
 ----
 
 #### Escriba el nombre del proyecto cuando no aparece en la lista{.unnumbered}
 Campo de texto abierto que permite introducir el nombre del proyecto más amplio o si el proyecto está ligado a dos o más proyectos generales.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/05.3_ProyeAmplio.png){width="660"}
+![](images/05.3_ProyeAmplio.png){width="660"}
 
 ----
 
@@ -74,7 +75,7 @@ Escriba el objetivo general del proyecto y los particulares en caso que aplique.
 
 Si los objetivos están en un idioma distinto al español, favor de traducirlos. Puede usar un servicio de traducción en línea (p.ej., Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), en caso de usar un servicio de traducción favor de indicar al final del resumen lo siguiente: (Traducido por XX).
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/06_ObjProy.png){width="700"}
+![](images/06_ObjProy.png){width="700"}
 
 ----
 
@@ -86,7 +87,7 @@ Para información recabada a partir de una publicación, indique el enfoque o t�
 El enfoque o término capturado puede ser el mismo que se indique en el campo ‘Enfoque del proyecto según el SNIRA’.
 
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen2.png){width="700"}
+![](images/Imagen2.png){width="700"}
 
 ----
 
@@ -105,9 +106,9 @@ Las acciones están enfocadas a recuperar los componentes, funciones y procesos 
 - Refaunación: Conjunto de acciones basadas en el manejo, introducción o reintroducción de poblaciones de fauna silvestre nativa que puedan reinstalar funciones ecológicas en una área, lo cual contribuye a la restauración de los ecosistemas.
 - Remediación: Conjunto de actividades que generalmente se emplean en sitios severamente impactados y degradados por actividades antropogénicas, p. ej., en minas a cielo abierto, vertederos o sitios postindustriales. 
 El objetivo principal es controlar o eliminar contaminantes que afectan o perturban en un área la calidad de suelo, agua o aire. Puede resultar en un reemplazo o reconstrucción de un ecosistema original.
-- No aplica: Seleccione cuando ninguna de las otras opciones aplica.
+- No aplica: Seleccione cuando no es aplicable a su proyecto.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/08_EnfoSNIRA.png){width="660"}
+![](images/08_EnfoSNIRA.png){width="660"}
 
 ----
 
@@ -122,7 +123,7 @@ Campo de texto abierto que permite introducir comentarios o proporcionar mayores
 Por favor, escriba un resumen.
 Para información extraída de una publicación, incluya el resumen entre comillas " " para indicar que es una cita textual. 
 
-Si el resumen está en un idioma distinto al español, favor de traducirlo. Puede usar un servicio de traducción disponible en línea (p.ej. Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), favor de indicar que fue ‘Traducido por XX´.
+Si el resumen está en un idioma distinto al español, favor de traducirlo. Puede usar un servicio de traducción disponible en línea (p.ej. Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), favor de agregar: (p.ej. Traducido por DeepL“).
 
 ----
 
@@ -180,7 +181,7 @@ Seleccione la opción que corresponda:
 - Concluido:  El proyecto finalizó, es decir ya no se encuentra en fase de planeación, implementación o monitoreo.
 - Cancelado: El proyecto fue suspendido, invalidado o similar en cualquier fase.
 - No determinado: Seleccione esta opción cuando no es posible identificar en qué fase se encuentra del proyecto.
-- No aplica: Seleccione esta opción cuando ninguna de las otras opciones aplica.
+- No aplica: Seleccione esta opción cuando no es aplicable a su proyecto.
 
 ----
 

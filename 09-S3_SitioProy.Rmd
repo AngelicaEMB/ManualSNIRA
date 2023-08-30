@@ -11,9 +11,9 @@ Pulse ‘Eliminar’ si no va a capturar información.
 
 Pulse ‘Agregar sitio’ si va a capturar información.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen10.png){width="200"}
+![](images/Imagen10.png){width="200"}
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen11.png){width="700"}
+![](images/Imagen11.png){width="700"}
 
 
 ----
@@ -40,6 +40,7 @@ Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/).
 **Latitud y Longitud**
 
 Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 21.161908) o sexagesimal (p. ej.,  Lat: 21°90'43"; Long: 86°51'60").
+
 
 Para el formato sexagesimal, por favor use las **comillas simples ( ' ) y dobles ( " )**. Si usa cualquier otro símbolo parecido o no incluye la letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección.
 
@@ -87,14 +88,14 @@ Seleccione todas las opciones que correspondan:
 - Salobre: Ambiente de transición entre aguas dulces y saladas del mar, aplica en particular para manglares.
 - Terrestre: Ambiente de tierra firme. Por ejemplo, incluye a los bosques templados y las selvas húmedas y subhúmedas.
 - No determinado: Seleccione cuando no es posible identificar el ambiente.
-- No aplica: Seleccione cuando ninguna de las otras opciones aplica.
+- No aplica: Seleccione cuando no es aplicable a su proyecto.
 
 ----
 
 ### <span style="color:red">Ecosistema\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 Fuente de información: [CONABIO](https://www.biodiversidad.gob.mx/ecosistemas/ecosismex).
-Seleccione ‘No aplica’ cuando ninguna de las opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 Seleccione ‘No determinado’ cuando no es posible identificar el ecosistema.
 
 ----
@@ -104,10 +105,10 @@ Las opciones de respuesta presentan dos niveles jerárquicos, por lo que podrá 
 
 Seleccione todas las opciones de la lista que correspondan. Podrá seleccionar tanto los tipos de vegetación como los agrupados . 
 Seleccione ‘No determinado’ cuando no es posible determinar el tipo de vegetación.
-Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen12.png){width="250"}
+![](images/Imagen12.png){width="250"}
 
 ----
 
@@ -119,7 +120,7 @@ Escriba el tipo de vegetación cuando no aparece en el catálogo o quiera dar m�
 ### <span style="color:red">Tipo de suelo\*</span> {.unnumbered}
 Por favor, primero elija el sistema de clasificación y luego seleccione el tipo de suelo. Solo podrá elegir un sistema de clasificación para capturar los datos del tipo de suelo.  
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen13.png){width="700"}
+![](images/Imagen13.png){width="700"}
 
 ----
 
@@ -127,14 +128,15 @@ Por favor, primero elija el sistema de clasificación y luego seleccione el tipo
 Seleccione la opción de la lista que corresponda. Fuentes de información: [INEGI](https://www.inegi.org.mx/temas/edafologia/), [WRB](https://www.isric.org/explore/wrb#:~:text=WRB%20is%20a%20two%2Dtier,expression%20of%20certain%20soil%20features.) y  [USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-taxonomy).
 
 Seleccione ‘No determinado’ cuando no es posible determinar el sistema de clasificación y tipo de suelo o no se cuenta con la información.
-Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+
 
 ----
 
 #### Tipo de suelo{.unnumbered}
 Seleccione todas las opciones de la lista que correspondan conforme al sistema de clasificación seleccionado. 
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen16.png){width="700"}
+![](images/Imagen16.png){width="700"}
 
 ----
 
@@ -146,25 +148,30 @@ Escriba el tipo de suelo cuando no aparece en el catálogo o quiera dar más det
 ### Área protegida {.unnumbered}
 Si su proyecto de restauración se localiza en un área protegida, seleccione el botón ‘Área protegida +’. A continuación, se desplegarán campos relacionados para la localización del área protegida. 
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen14.png){width="200"}
+![](images/Imagen14.png){width="200"}
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen15.png){width="400"}
+![](images/Imagen15.png){width="400"}
 
 ----
 
 #### <span style="color:red">Estado en donde se encuentra el área protegida\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda. 
 Seleccione ‘No determinado’ cuando no es posible determinar el municipio.
-Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
 #### <span style="color:red">Ámbito de jurisdicción\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda. 
 
-- Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. La lista contiene 185 Áreas Naturales Protegidas de carácter federal administradas por la Comisión Nacional de Áreas Naturales Protegidas. Fuente de información: Conanp, 2022.
-- Área protegida subnacional: Áreas protegidas a nivel estatal, municipal, comunitario, ejidal o privadas.
-- Área destinada voluntariamente a la conservación (ADVC): Áreas protegidas que pueblos indígenas, organizaciones sociales, personas físicas o morales han destinado de manera voluntaria a la conservación.
+
+- Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. Actualmente la Comisión Nacional de Áreas Naturales Protegidas (Conanp) administra 185 Áreas Naturales Protegidas de carácter federal administradas por la Comisión Nacional de Áreas Naturales Protegidas. Fuente de información: [Conanp, 2022](http://geoportal.conabio.gob.mx/metadatos/doc/html/anp2022gw.html#idinfo).
+
+- Área protegida subnacional: Áreas protegidas a nivel estatal, municipal,  comunitario, ejidal o privadas. Fuente de la información: [Conabio 2020](http://geoportal.conabio.gob.mx/metadatos/doc/html/anpest20gw.html)
+
+
+- Área destinada voluntariamente a la conservación (ADVC): Áreas protegidas que pueblos indígenas, organizaciones sociales, personas físicas o morales han destinado de manera voluntaria a la conservación. Fuente de la información: [Conanp, 2022](http://geoportal.conabio.gob.mx/#!l=advc2022gw@m=mixto)
+
 
 ----
 
@@ -176,7 +183,7 @@ Seleccione la opción de la lista que corresponda que se generó a partir de la 
 ### <span style="color:red">Principales causas de la degradación\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 Seleccione ‘No determinado’ cuando no es posible determinar las causas de la degradación.
-Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 

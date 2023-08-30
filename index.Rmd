@@ -2,7 +2,7 @@
 title: "Manual para personas usuarias"
 author: Conabio. 2023. Manual para personas usuarias del Sistema Nacional de Información
   para la Restauración Ambiental, Comisión Nacional para el Conocimiento y Uso de
-  la Biodiversidad. México 
+  la Biodiversidad. México
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -18,7 +18,7 @@ csl: "chicago-fullnote-bibliography.csl"
 
 # SNIRA {.unnumbered}
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/CoverPic_Manual.PNG){width="660"}
+![](images/CoverPic_Manual.PNG){width="660"}
 
 El Sistema Nacional de Información para la Restauración Ambiental [SNIRA](https://snira.conabio.gob.mx/) es una plataforma web que integra y sintetiza información relacionada con iniciativas y proyectos de restauración ambiental en el país. El término de ‘restauración ambiental' se usa para abarcar todas las intervenciones, acciones y trabajos que buscan revertir o reducir las condiciones de degradación, daño o destrucción de los ecosistemas. Por lo tanto, en el SNIRA se incluyen proyectos sobre regeneración natural, restauración ecológica, rehabilitación, restauración productiva, reforestación, refaunación y remediación. Para mayor información al respecto, por favor consulte el documento de [**Enfoques y términos**](https://drive.google.com/file/d/1jmIbkg1UEZI-FfwHULiqkg-rUJExKsIc/view).
 

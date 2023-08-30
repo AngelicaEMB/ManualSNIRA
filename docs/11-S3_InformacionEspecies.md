@@ -12,7 +12,7 @@ La subsección comprende tres campos; si agrega una especie, **dos de los campos
 
 Pulse ‘Eliminar’ sino va a capturar información.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen19.png){width="200"}
+![](images/Imagen19.png){width="200"}
 
 **En caso de que el proyecto no cuente con información de especies, puede omitir esta subsección; pulse directamente ‘Guardar’ y pase a la siguiente sección.*En caso de que el proyecto no cuente con información de especies, puede omitir esta subsección; pulse directamente ‘Guardar’ y pase a la siguiente sección**
 
@@ -21,11 +21,11 @@ Pulse ‘Eliminar’ sino va a capturar información.
 ### <span style="color:red">Especie\*</span> {.unnumbered}
 Seleccione el nombre científico; al teclear el nombre, aparecerá una lista de 10 opciones que se actualiza conforme siga tecleando. Si la especie es un sinónimo, el nombre válido aparecerá entre paréntesis, p. ej., _Pinus bonapartea_ (_Pinus strobiformis_).
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen3.png){width="400"}
+![](images/Imagen3.png){width="400"}
 
 **(INTERNO: POR DECIDIR CUAL DE LAS DOS IMAGENES COLOCAR)**
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen20.png){width="700"}
+![](images/Imagen20.png){width="700"}
 
 ----
 

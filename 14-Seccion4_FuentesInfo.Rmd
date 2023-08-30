@@ -7,18 +7,20 @@ La subsección comprende dos campos; ninguno es obligatorio.
 ----
 
 ### Referencia{.unnumbered}
-Escriba el apellido o título de la referencia; no use acentos ni tildes, p. ej., escriba Perez Gomez en vez de Pérez-Gómez. 
+Escriba el apellido o título de la referencia; no use acentos, tildes u otros caracteres especiales, p. ej., escriba Perez Gomez en vez de Pérez-Gómez; escriba Basbug en vez de Başbuğ. 
 
-Al teclear la palabra, aparecerá una lista de 10 opciones que se actualiza conforme se sigue tecleando. 
+Al teclear la palabra, aparecerá una lista de 10 opciones que se actualiza conforme se sigue tecleando. Seleccione la referencia que corresponda
 
-Las referencias están integradas en y vinculadas al gestor bibliográfico de Zotero, manejado por la CONABIO. Actualmente, contiene casi 1,600 documentos, incluyendo artículos de revistas científicas y de divulgación, capítulo de libros, informes, tesis, entre otros que fueron publicados a partir de 1990.
+Las referencias que se despliegan en la lista están albergadas en el gestor bibliográfico de Zotero, manejado por la CONABIO. Actualmente, contiene casi 1,600 documentos, incluyendo artículos de revistas científicas y de divulgación, capítulo de libros, informes, tesis, entre otros que fueron publicados a partir de 1990.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen4.png){width="400"}
+En caso que no encuentre una referencia en la lista, por favor, escriba la referencia en formato APA en el siguiente campo.
+
+![](images/Imagen4.png){width="400"}
 
 ----
 
 ### Referencia nueva{.unnumbered}
-En caso que no encuentre una referencia en la lista, por favor, escriba la referencia en formato APA. 
+En caso que no encuentre una referencia en la lista del campo anterior, por favor, escriba la referencia en formato APA. 
 
 Si no cuenta con una publicación, puede incluir la referencia de otra evidencia disponible en línea, p. ej., video o documental. 
 En caso de no contar con algún material de referencia, escriba: Observación personal.

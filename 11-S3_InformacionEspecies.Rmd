@@ -12,7 +12,7 @@ La subsección comprende tres campos; si agrega una especie, **dos de los campos
 
 Pulse ‘Eliminar’ sino va a capturar información.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen19.png){width="200"}
+![](images/Imagen19.png){width="200"}
 
 **En caso de que el proyecto no cuente con información de especies, puede omitir esta subsección; pulse directamente ‘Guardar’ y pase a la siguiente sección.*En caso de que el proyecto no cuente con información de especies, puede omitir esta subsección; pulse directamente ‘Guardar’ y pase a la siguiente sección**
 
@@ -21,18 +21,18 @@ Pulse ‘Eliminar’ sino va a capturar información.
 ### <span style="color:red">Especie\*</span> {.unnumbered}
 Seleccione el nombre científico; al teclear el nombre, aparecerá una lista de 10 opciones que se actualiza conforme siga tecleando. Si la especie es un sinónimo, el nombre válido aparecerá entre paréntesis, p. ej., _Pinus bonapartea_ (_Pinus strobiformis_).
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen3.png){width="400"}
+![](images/Imagen3.png){width="400"}
 
 **(INTERNO: POR DECIDIR CUAL DE LAS DOS IMAGENES COLOCAR)**
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen20.png){width="700"}
+![](images/Imagen20.png){width="700"}
 
 ----
 
 ### <span style="color:red">Uso de la especie\*</span> {.unnumbered}
 Seleccione una opción.
 
-- Utilizada en la restauración: Especie focal o especie usada en la restauración, p. ej.,  _Romerolagus diazi_ (conejo zacatuche o teporingo) -el objetivo del proyecto fue identificar y caracterizar sitios potencialmente útiles para la restauración de las poblaciones del teporingo; _Pinus oaxacana_ -el objetivo del estudio fue establecer un ensayo de la progenie del pino en Veracruz; o _Agave durangensis_ -el objetivo del estudio fue determinar la germinación y el crecimiento del agave. Tanto el teporingo, el pino como el agave son el principal objeto del estudio.
+- Utilizada en la restauración: Especie focal o especie usada en la restauración o refaunación o como el principal objeto de estudio, p. ej.,  _Romerolagus diazi_ (conejo zacatuche o teporingo) -el objetivo del proyecto fue identificar y caracterizar sitios potencialmente útiles para la recuperación de las poblaciones del teporingo; _Pinus oaxacana_ -el objetivo del estudio fue establecer un ensayo de la progenie del pino en Veracruz; o _Agave durangensis_ -el objetivo del estudio fue determinar la germinación y el crecimiento del agave; Se plantaron algunos árboles como Pinus greggii, P. devoniana, P. montezumae (entre otros).
 - No utilizada pero evaluada y monitoreada: Especie que no fue usada para la restauración sino para evaluar el efecto o impacto de la restauración, p. ej., especies de aves y murciélagos monitoreadas en un gradiente sucesional de selva bajo diferentes esquemas de restauración; o _Leptoglossus occidentalis_, un insecto que afecta las semillas de _Pinus engelmannii_ (especie usada en la restauración).
 - Experimentación y otros usos: Especie que no se evalúa pero se usó/usa/usará en el proyecto, p. ej. hongos micorrízicos (ej. _Rhizophagus intraradices_) usados para inocular plantas usadas para la restauración.
 

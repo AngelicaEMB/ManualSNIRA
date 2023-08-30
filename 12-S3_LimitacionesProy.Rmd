@@ -9,19 +9,19 @@ La subsección comprende nueve campos, de los cuales **tres son obligatorios (<s
 ### <span style="color:red">Indique las limitaciones generales que enfrentó o enfrenta el proyecto\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 Seleccione ‘No determinado’ si no cuenta con la información. 
-Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
 ### Indique las limitaciones específicas que enfrentó o enfrenta el proyecto{.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 Seleccione ‘No determinado’ si no cuenta con la información. 
-Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
 ### Otras limitaciones generales o específicas{.unnumbered}
-Escriba otras limitaciones cuando no aparece en el catálogo o cuando quiere dar más detalle, p. ej., falta de apoyo económico y capacitación para actividades de monitoreo de la flora a largo plazo.
+Escriba otras limitaciones cuando no aparecen en la lista o cuando quiere dar más detalle, p. ej., falta de apoyo económico y capacitación para actividades de monitoreo de la flora a largo plazo.
 
 ----
 
@@ -33,24 +33,24 @@ Campo de texto abierto que permite introducir comentarios, opiniones, etc. respe
 ### <span style="color:red">Indique los efectos sociales y culturales derivados de las acciones de restauración\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 Seleccione ‘No determinado’ si no cuenta con la información. 
-Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
 ### Otros efectos positivos o impactos negativos sociales y culturales del proyecto{.unnumbered}
-Escriba los efectos positivos o impactos negativos sociales y culturales si no aparecen en el catálogo o quiera dar más detalles, p. ej., aumento de interés y participación de jóvenes en el proyecto.
+Escriba los efectos positivos o impactos negativos sociales y culturales si no aparecen en la lista o quiera dar más detalles, p. ej., aumento de interés y participación de jóvenes en el proyecto.
 
 ----
 
 ### <span style="color:red">Indique los efectos económicos derivados de las acciones de restauración\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 Seleccione ‘No determinado’ si no cuenta con la información. 
-Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
 ### Otros efectos positivos o impactos negativos económicos del proyecto{.unnumbered}
-Escriba los efectos positivos o impactos negativos económicos si no aparecen en el catálogo o quiera dar más detalles, p. ej., inserción en cadenas de valor en el mercado local y regional.
+Escriba los efectos positivos o impactos negativos económicos si no aparecen en la lista o quiera dar más detalles, p. ej., inserción en cadenas de valor en el mercado local y regional.
 
 ----
 

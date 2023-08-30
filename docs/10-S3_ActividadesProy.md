@@ -14,7 +14,7 @@ Escriba los métodos o técnicas usadas en el proyecto, p. ej., caracterización
 ### <span style="color:red">Actividades de restauración\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 Seleccione ‘No determinado’ cuando no es posible determinar las actividades de restauración.
-Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
@@ -24,31 +24,31 @@ Escriba las actividades de restauración si no aparecen en el catálogo o quiera
 ----
 
 ### Indicadores de monitoreo {.unnumbered}
-El monitoreo se refiere a una actividad crítica que implica la recolección continua y análisis de información que permite supervisar, evaluar y dar seguimiento a un proyecto en relación a sus objetivos y metas.
+El monitoreo es un componente fundamental que implica la recolección continua de datos y el análisis de información para supervisar, evaluar y dar seguimiento a un proyecto en relación a sus objetivos y metas.
 
 Pulse el botón ‘Agregar indicador de monitoreo +’ para que se desplieguen los campos y pueda capturar los datos. Si no cuenta con información, puede saltarse esta parte. 
 
-Podrá agregar tantos sitios como desee a través del mismo botón. 
+Podrá agregar tantos sitios como desee por medio del mismo botón. 
 
 Pulse ‘Eliminar’ sino va a capturar información.
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen17.png){width="200"}
+![](images/Imagen17.png){width="200"}
 
-![](https://raw.githubusercontent.com/AngelicaEMB/PruebasManualSNIRA/main/images/Imagen18.png){width="700"}
+![](images/Imagen18.png){width="700"}
 
 ----
 
 #### <span style="color:red">Indicador de monitoreo\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda.
 Seleccione ‘No determinado’ cuando no es posible determinar el indicador.
-Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
  
 #### <span style="color:red">Objeto de monitoreo\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda.
 Seleccione ‘No determinado’ cuando no es posible determinar el objeto.
-Seleccione ‘No aplica’ cuando ninguna de las otras opciones aplica.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 

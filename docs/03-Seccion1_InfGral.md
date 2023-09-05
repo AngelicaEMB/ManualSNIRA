@@ -34,8 +34,8 @@ En caso de que el título de la publicación esté en español, no es necesario 
 Seleccione la opción que corresponda:
 
 - Teórico:  Hace referencia a proyectos de experimentación en laboratorio o vivero, revisión de literatura, meta-análisis, estudios de percepción, modelación, desarrollo de plan de manejo, entre otros.
-- Práctico: Hace referencia a proyectos que implementan acciones de restauración  campo.
-- Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo;  incluye acciones que contribuyan a reducir la degradación o restaurar un sitio y recuperar un ecosistema o sitio particular.
+- Práctico: Hace referencia a proyectos que implementan acciones de restauración en campo;  incluye acciones que contribuyan a reducir la degradación, restaurar un sitio o recuperar un ecosistema o sitio particular.
+- Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo.
 
 
 ----
@@ -72,7 +72,7 @@ Campo de texto abierto que permite introducir el nombre del proyecto más amplio
 
 Escriba el objetivo general del proyecto y los particulares en caso que aplique. Si copia el objetivo de una publicación, póngalo entre comillas " " para indicar que es una cita textual. 
 
-Si los objetivos están en un idioma distinto al español, favor de traducirlos. Puede usar un servicio de traducción en línea (p.ej., Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), en caso de usar un servicio de traducción favor de indicar al final del resumen lo siguiente: (Traducido por XX).
+Si los objetivos están en un idioma distinto al español, favor de traducirlos. Puede usar un servicio de traducción en línea (p.ej., Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), en caso de usar un servicio de traducción favor de indicar al final del resumen lo siguiente,  por ejemplo: (Traducido por Google).
 
 ![](images/06_ObjProy.png){width="700"}
 
@@ -122,7 +122,7 @@ Campo de texto abierto que permite introducir comentarios o proporcionar mayores
 Por favor, escriba un resumen.
 Para información extraída de una publicación, incluya el resumen entre comillas " " para indicar que es una cita textual. 
 
-Si el resumen está en un idioma distinto al español, favor de traducirlo. Puede usar un servicio de traducción disponible en línea (p.ej. Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), favor de agregar: (p.ej. Traducido por DeepL“).
+Si el resumen está en un idioma distinto al español, favor de traducirlo. Puede usar un servicio de traducción disponible en línea (p.ej. Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), favor de agregar al final del texto lo siguiente, por ejemplo: (Traducido por Google).
 
 ----
 
@@ -226,8 +226,8 @@ Un sitio o ecosistema de referencia corresponde a un área o ecosistema nativo s
 
 Seleccione la opción que corresponda: 
 
-- Sí: Seleccione cuando se usó / usa /usará un sitio o ecosistema de referencia.
-- No: Seleccione cuando no se usó / usa /usará un sitio o ecosistema de referencia.
+- Sí: Seleccione cuando se usó un sitio o ecosistema de referencia.
+- No: Seleccione cuando no se usó un sitio o ecosistema de referencia.
 - No determinado: Seleccione cuando no cuenta con la información.
 - No aplica: Seleccione cuando se trata de un estudio teórico o ninguna de las otras opciones aplica.
 

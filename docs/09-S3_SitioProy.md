@@ -39,9 +39,9 @@ Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/).
 ### Coordenadas geográficas para localizar el sitio de estudio {.unnumbered}
 **Latitud y Longitud**
 
-Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 21.161908) o sexagesimal (p. ej., Lat: 21°90'43"; Long: 86°51'60").
+Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 21.161908) o sexagesimal (p. ej.,Lat: 21°90'43"; Long: 86°51'60").
 
-Para el formato sexagesimal, por favor use las **comillas simples ( ' ) y dobles ( " )**. Si usa cualquier otro símbolo parecido o no incluye la letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección.
+Para el formato sexagesimal, por favor use las **comillas simples para denotar minutos ( ' ) y dobles para segundos ( " )**. Si usa cualquier otro símbolo parecido o no incluye la letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección.
 
 Las líneas de longitud van de norte a sur y miden los grados hacia el este o el oeste desde el meridiano 0 de Greenwich. Los valores pueden ir de -180 a +180°. Las líneas de latitud van de este a oeste y miden los grados hacia el norte o el sur desde el ecuador. Los valores van de +90° en el Polo Norte a -90° en el Polo Sur.. 
 

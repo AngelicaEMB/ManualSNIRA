@@ -10,7 +10,7 @@ En la medida de lo posible, los campos incluyen catálogos de vocabulario contro
 
 Si no encuentra una opción de respuesta que aplique a su proyecto, puede escribir su respuesta en los campos de texto abierto correspondientes, estos campos sirven para poder proporcionar mayor detalle o escribir comentarios. Los campos de texto abierto se encuentran en todas las secciones y subsecciones del sistema.
 
-Por favor, escriba y capture los datos en español. Si copia información de un documento, póngala entre comillas (" ") para indicar que es una cita textual. Si la información está en un idioma distinto al español, favor de traducirla; se puede usar el servicio de traducción como [Google](https://translate.google.com.mx/?hl=es), [DeepL](https://www.deepl.com/es/translator) u otro para apoyar con la traducción de textos al español.  En caso de usar un servicio de traducción, favor de indicar al final del texto lo siguiente: (Traducido por XX).
+Por favor, escriba y capture los datos en español. Si copia información de un documento, póngala entre comillas " " para indicar que es una cita textual. Si la información está en un idioma distinto al español, favor de traducirla; se puede usar el servicio de traducción como [Google](https://translate.google.com.mx/?hl=es), [DeepL](https://www.deepl.com/es/translator) u otro para apoyar con la traducción de textos al español.  En caso de usar un servicio de traducción, favor de indicar al final del texto lo siguiente, por ejemplo: (Traducido por Google).
 
 ----
 
@@ -22,7 +22,7 @@ Pulse el botón ‘Siguiente’ para pasar a la siguiente sección o subsección
 ----
 
 ## Editar información capturada {.unnumbered}
-Podrá editar la información las veces que sean necesarias mientras su proyecto esté en el estado de  **‘Edición’** (véase las ‘Instrucciones’ en la parte superior de la sección 1: Información general). Una vez que pulse el botón ‘Enviar a revisión mi proyecto’ (ubicado al final de los campos, es decir después la sección 4: Fuentes de información), automáticamente el estado del proyecto cambiará a ‘En revisión’ y ya no será posible hacer cambios. En caso de  que haya campos obligatorios vacíos o el sistema encuentra inconsistencias en los datos capturados, el estado se mantendrá en ‘Edición’. **Si requiere hacer algún cambio después de haber enviado el proyecto a revisión, deberá enviar un correo electrónico a snira@conabio.gob.mx**
+Podrá editar la información las veces que sean necesarias mientras su proyecto esté en el estado de  **‘Edición’** (véase las ‘Instrucciones’ en la parte superior de la sección 1: Información general). Una vez que pulse el botón ‘Enviar a revisión mi proyecto’ (ubicado al final de los campos, es decir después la sección 4: Fuentes de información), automáticamente el estado del proyecto cambiará a ‘En revisión’ y ya no será posible hacer cambios. En caso de  que haya campos obligatorios vacíos o el sistema encuentre inconsistencias en los datos capturados, el estado se mantendrá en ‘Edición’. **Si requiere hacer algún cambio después de haber enviado el proyecto a revisión, deberá enviar un correo electrónico a snira@conabio.gob.mx**.
 
 
 La información de su proyecto estará disponible para la consulta del público en general cuando los datos hayan sido revisados por el  equipo de trabajo de la Conabio y el proyecto se haya registrado en la base de datos del SNIRA. En ese caso, el estatus del proyecto cambiará a ‘REGISTRADO’.
@@ -33,6 +33,7 @@ A continuación se explican con detalle cada una de las secciones y los campos d
 
 ## Primer paso {.unnumbered}
 **Registre un nuevo proyecto**
+
 En esta sección encontrará las instrucciones para la captura de la información en la base de datos, así como el [**Aviso de privacidad**](https://www.biodiversidad.gob.mx/conabio/proteccion-DP/ap-solicitudes-de-acceso-infopub) y los [**Términos y condiciones de uso del sitio**](https://www.gob.mx/terminos).
 
 El primer campo obligatorio es ‘Nombre del proyecto’. Al escribir el nombre (en español) y pulsar el botón ‘Crear nuevo proyecto’, se habilitarán los demás campos para ingresar la información de su proyecto. Cuando la información que se captura es extraída de una publicación, ponga el título de la publicación.

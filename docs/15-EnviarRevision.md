@@ -3,7 +3,7 @@
 <br>
 
 ### GUARDAR {.unnumbered}
-**Podrá editar la información las veces que sean necesarias mientras su proyecto esté en estatus ‘Edición’**, el cuál se puede ver en la sección 1: Información general, ubicado en la parte superior. Una vez que pulse el botón ‘Enviar para revisión’, el cuál se encuentra al final de las cuatro secciones, es decir después la sección 4: Fuentes de información, el estatus del proyecto cambiará automáticamente a ‘En revisión’ y ya no será posible hacer cambios, al menos que haya campos obligatorios vacíos o el sistema encuentra inconsistencias en los datos capturados. Si requiere hacer algún cambio después de haber enviado el proyecto a revisión, deberá enviar un correo electrónico a **snira@conabio.gob.mx**.
+**Podrá editar la información las veces que sean necesarias mientras su proyecto esté en estatus ‘Edición’**, el cual se puede ver en la sección 1: Información general, ubicado en la parte superior. Una vez que pulse el botón ‘Enviar para revisión’, el cual se encuentra al final de las cuatro secciones, es decir después la sección 4: Fuentes de información, el estatus del proyecto cambiará automáticamente a ‘En revisión’ y ya no será posible hacer cambios, al menos que haya campos obligatorios vacíos o el sistema encuentra inconsistencias en los datos capturados. Si requiere hacer algún cambio después de haber enviado el proyecto a revisión, deberá enviar un correo electrónico a **snira@conabio.gob.mx**.
 
 ### Enviar {.unnumbered}
 

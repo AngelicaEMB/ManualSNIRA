@@ -37,13 +37,13 @@ Escriba el apellido materno de la persona.
 
 ----
 
-### Rol de la persona en el proyecto. {.unnumbered}
+### Rol de la persona en el proyecto {.unnumbered}
 
 Seleccione la opción que corresponda: 
 
-- Responsable: Persona física que gestionó, gestiona y gestionará el proyecto (project manager).
-- Corresponsable:  Persona física auxiliar de la gestión, manejo y administración del proyecto.
-- Colaborador: 
+- Responsable: Persona física que gestionó, gestiona y gestionará el proyecto (project manager); en el caso de tesis; corresponde a tesistas.
+- Corresponsable:  Persona física auxiliar de la gestión, manejo y administración del proyecto; ; en el caso de tesis; corresponde a las personas que dirigen o dirigieron la tesis.
+- Colaborador: Persona física que contribuyó / contribuye / contribuirá de manera activa en el proyecto.
 - Técnico: Especialista capacitado que apoyó / apoya /apoyará las labores del proyecto.
 - Evaluador: Persona que participó / participa / participará en los procesos de evaluación, puede incluir a académicos, investigadores, técnicos, entre otros.
 - Administrador de recursos: Persona encargada de la administración de recursos financieros.
@@ -72,7 +72,7 @@ Seleccione la opción de la lista que corresponda.
 
 ### En caso de no encontrar la institución, por favor indique el nombre.{.unnumbered}
 
-Campo de texto abierto que permite introducir el nombre de la organización, es decir la institución y su dependencia, p. ej., Colegio de Postgraduados, Campus Montecillo, Instituto de Recursos Naturales, Laboratorio de Etnobotánica. Si la persona no forma parte de  una organización, también se puede indicar en este campo, p.ej. consultor o prestador de servicios independiente. 
+Campo de texto abierto que permite introducir el nombre de la organización, es decir la institución y su dependencia, p. ej., Colegio de Postgraduados, Campus Montecillo, Instituto de Recursos Naturales, Laboratorio de Etnobotánica. Si la persona no forma parte de  una organización, también se puede indicar en este campo, p. ej. consultor o prestador de servicios independiente. 
 
 ----
 

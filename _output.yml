@@ -2,7 +2,7 @@ bookdown::bs4_book:
   css: style.css
   theme:
     primary: "#959D78"
-  repo: https://github.com/AngelicaEMB/PruebasManualSNIRA
+  repo: https://github.com/snira-conabio/ManualSNIRA
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

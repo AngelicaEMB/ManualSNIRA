@@ -34,7 +34,7 @@ Seleccione una opción.
 
 - Utilizada en la restauración: Especie focal o especie usada en la restauración o refaunación o como el principal objeto de estudio, p. ej.,  _Romerolagus diazi_ (conejo zacatuche o teporingo) -el objetivo del proyecto fue identificar y caracterizar sitios potencialmente útiles para la recuperación de las poblaciones del teporingo; _Pinus oaxacana_ -el objetivo del estudio fue establecer un ensayo de la progenie del pino en Veracruz; o _Agave durangensis_ -el objetivo del estudio fue determinar la germinación y el crecimiento del agave; Se plantaron algunos árboles como Pinus greggii, P. devoniana, P. montezumae (entre otros).
 - No utilizada pero evaluada y monitoreada: Especie que no fue usada para la restauración sino para evaluar el efecto o impacto de la restauración, p. ej., especies de aves y murciélagos monitoreadas en un gradiente sucesional de selva bajo diferentes esquemas de restauración; o _Leptoglossus occidentalis_, un insecto que afecta las semillas de _Pinus engelmannii_ (especie usada en la restauración).
-- Experimentación y otros usos: Especie que no se evalúa pero se usó/usa/usará en el proyecto, p. ej. hongos micorrízicos (ej. _Rhizophagus intraradices_) usados para inocular plantas usadas para la restauración.
+- Experimentación y otros usos: Especie que no se evalúa pero se usó/usa/usará en el proyecto, p. ej. hongos micorrízicos (p. ej. _Rhizophagus intraradices_) usados para inocular plantas usadas para la restauración.
 
 ----
 

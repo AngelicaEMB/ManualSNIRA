@@ -14,8 +14,9 @@ Escriba los métodos o técnicas usadas en el proyecto, p. ej., caracterización
 ### <span style="color:red">Actividades de restauración\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 
-- Seleccione ‘No determinado’ cuando no es posible determinar las actividades de restauración.
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No determinado’ cuando no es posible determinar las actividades de restauración.
+
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
@@ -42,16 +43,18 @@ Pulse ‘Eliminar’ sino va a capturar información.
 #### <span style="color:red">Indicador de monitoreo\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda.
 
-- Seleccione ‘No determinado’ cuando no es posible determinar el indicador.
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No determinado’ cuando no es posible determinar el indicador.
+
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
  
 #### <span style="color:red">Objeto de monitoreo\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda.
 
-- Seleccione ‘No determinado’ cuando no es posible determinar el objeto.
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No determinado’ cuando no es posible determinar el objeto.
+
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 

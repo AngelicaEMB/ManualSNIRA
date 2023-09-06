@@ -13,13 +13,14 @@ Escriba los métodos o técnicas usadas en el proyecto, p. ej., caracterización
 
 ### <span style="color:red">Actividades de restauración\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
-Seleccione ‘No determinado’ cuando no es posible determinar las actividades de restauración.
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+
+- Seleccione ‘No determinado’ cuando no es posible determinar las actividades de restauración.
+- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
 ### Otras actividades de restauración {.unnumbered}
-Escriba las actividades de restauración si no aparecen en el catálogo o quiera dar más detalles, p. ej., adición de acolchados, llenado de cárcavas, reforestación con especies medicinales nativas de la región.
+Escriba las actividades de restauración si no aparecen en el catálogo o quiere dar más detalles, p. ej., adición de acolchados, llenado de cárcavas, reforestación con especies medicinales nativas de la región.
 
 ----
 
@@ -40,15 +41,17 @@ Pulse ‘Eliminar’ sino va a capturar información.
 
 #### <span style="color:red">Indicador de monitoreo\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda.
-Seleccione ‘No determinado’ cuando no es posible determinar el indicador.
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+
+- Seleccione ‘No determinado’ cuando no es posible determinar el indicador.
+- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
  
 #### <span style="color:red">Objeto de monitoreo\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda.
-Seleccione ‘No determinado’ cuando no es posible determinar el objeto.
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+
+- Seleccione ‘No determinado’ cuando no es posible determinar el objeto.
+- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 

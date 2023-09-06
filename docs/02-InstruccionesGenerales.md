@@ -8,7 +8,7 @@ Se recomienda agregar toda la información disponible con la finalidad de enriqu
 
 En la medida de lo posible, los campos incluyen catálogos de vocabulario controlado para facilitar la captura de información y estandarizar las respuestas en la base de datos. Por favor, seleccione la opción de respuesta que más se ajuste a su proyecto. En caso de no contar con información para un campo, por favor seleccione ‘No determinado’. Si el campo no aplica para su proyecto, por favor seleccione ‘No aplica’.
 
-Si no encuentra una opción de respuesta que aplique a su proyecto, puede escribir su respuesta en los campos de texto abierto correspondientes, estos campos sirven para poder proporcionar mayor detalle o escribir comentarios. Los campos de texto abierto se encuentran en todas las secciones y subsecciones del sistema.
+Si no encuentra una opción de respuesta que aplique a su proyecto, puede escribir su respuesta en los campos de texto abierto correspondientes; estos campos sirven para poder proporcionar mayor detalle o escribir comentarios. Los campos de texto abierto se encuentran en todas las secciones y subsecciones del sistema.
 
 Por favor, escriba y capture los datos en español. Si copia información de un documento, póngala entre comillas " " para indicar que es una cita textual. Si la información está en un idioma distinto al español, favor de traducirla; se puede usar el servicio de traducción como [Google](https://translate.google.com.mx/?hl=es), [DeepL](https://www.deepl.com/es/translator) u otro para apoyar con la traducción de textos al español.  En caso de usar un servicio de traducción, favor de indicar al final del texto lo siguiente, por ejemplo: (Traducido por Google).
 

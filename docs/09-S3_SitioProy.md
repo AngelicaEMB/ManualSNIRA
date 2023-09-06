@@ -95,8 +95,9 @@ Seleccione todas las opciones que correspondan:
 Seleccione todas las opciones de la lista que correspondan. 
 Fuente de información: [CONABIO](https://www.biodiversidad.gob.mx/ecosistemas/ecosismex).
 
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
-- Seleccione ‘No determinado’ cuando no es posible identificar el ecosistema.
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+
+Seleccione ‘No determinado’ cuando no es posible identificar el ecosistema.
 
 ----
 
@@ -105,8 +106,9 @@ Las opciones de respuesta presentan dos niveles jerárquicos, por lo que podrá 
 
 Seleccione todas las opciones de la lista que correspondan. Podrá seleccionar tanto los tipos de vegetación como los agrupados.
 
-- Seleccione ‘No determinado’ cuando no es posible determinar el tipo de vegetación.
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No determinado’ cuando no es posible determinar el tipo de vegetación.
+
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 
 ![](images/Imagen12.png){width="250"}
@@ -128,8 +130,9 @@ Por favor, primero elija el sistema de clasificación y luego seleccione el tipo
 #### <span style="color:red">Sistema de clasificación\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda. Fuentes de información: [INEGI](https://www.inegi.org.mx/temas/edafologia/), [WRB](https://www.isric.org/explore/wrb#:~:text=WRB%20is%20a%20two%2Dtier,expression%20of%20certain%20soil%20features.) y  [USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-taxonomy).
 
-- Seleccione ‘No determinado’ cuando no es posible determinar el sistema de clasificación y tipo de suelo o no se cuenta con la información.
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No determinado’ cuando no es posible determinar el sistema de clasificación y tipo de suelo o no se cuenta con la información.
+
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 
 ----
@@ -158,8 +161,9 @@ Si su proyecto de restauración se localiza en un área protegida, seleccione el
 #### <span style="color:red">Estado en donde se encuentra el área protegida\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda. 
 
-- Seleccione ‘No determinado’ cuando no es posible determinar el municipio.
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No determinado’ cuando no es posible determinar el municipio.
+
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
@@ -185,8 +189,9 @@ Seleccione la opción de la lista que corresponda que se generó a partir de la 
 ### <span style="color:red">Principales causas de la degradación\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 
-- Seleccione ‘No determinado’ cuando no es posible determinar las causas de la degradación.
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No determinado’ cuando no es posible determinar las causas de la degradación.
+
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 

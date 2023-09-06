@@ -9,16 +9,18 @@ La subsección comprende nueve campos, de los cuales **tres son obligatorios (<s
 ### <span style="color:red">Indique las limitaciones generales que enfrentó o enfrenta el proyecto\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 
-- Seleccione ‘No determinado’ si no cuenta con la información. 
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No determinado’ si no cuenta con la información. 
+
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
 ### Indique las limitaciones específicas que enfrentó o enfrenta el proyecto{.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 
-- Seleccione ‘No determinado’ si no cuenta con la información. 
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No determinado’ si no cuenta con la información. 
+
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
@@ -35,8 +37,9 @@ Campo de texto abierto que permite introducir comentarios, opiniones, etc. respe
 ### <span style="color:red">Indique los efectos sociales y culturales derivados de las acciones de restauración\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 
-- Seleccione ‘No determinado’ si no cuenta con la información. 
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No determinado’ si no cuenta con la información. 
+
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
@@ -48,8 +51,9 @@ Escriba los efectos positivos o impactos negativos sociales y culturales si no a
 ### <span style="color:red">Indique los efectos económicos derivados de las acciones de restauración\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 
-- Seleccione ‘No determinado’ si no cuenta con la información. 
-- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No determinado’ si no cuenta con la información. 
+
+Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 

@@ -39,12 +39,7 @@ Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/).
 ### Coordenadas geográficas para localizar el sitio de estudio {.unnumbered}
 **Latitud y Longitud**
 
-<<<<<<< HEAD
 Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 21.161908) o sexagesimal (p. ej.,Lat: 21°90'43"; Long: 86°51'60").
-=======
-Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 21.161908) o sexagesimal (p. ej.,  Lat: 21°90'43"; Long: 86°51'60").
-
->>>>>>> 3242884524047490fa2dde1c0f0a95fd4fb93ed9
 
 Para el formato sexagesimal, por favor use las **comillas simples para denotar minutos ( ' ) y dobles para segundos ( " )**. Si usa cualquier otro símbolo parecido o no incluye la letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección.
 
@@ -74,9 +69,9 @@ Si cuenta con un archivo espacial que delimita el área de trabajo de su proyect
 
 **El formato aceptado es un archivo kml o kmz.** 
 
-El área de trabajo o los sitios de estudio se pueden representar mediante “puntos” (a partir de las coordenadas XY), “líneas” o “polígonos”, y pueden contener más de un objeto espaciales o elementos georeferenciados (p. ej., un multipolígono). 
+El área de trabajo o los sitios de estudio se pueden representar mediante “puntos” (a partir de las coordenadas XY), “líneas” o “polígonos”, y pueden contener más de un objeto espacial o elementos georeferenciados (p. ej., un multipolígono). 
 
-En el caso de tratarse de un multipolígono, este será válido siempre y cuando el archivo tenga una única geometría, es decir que está conformado únicamente por polígonos o por puntos o por líneas. Es necesario que los objetos espaciales tengan el mismo nombre en un único archivo, de tal forma que todos los polígonos o puntos estén dentro de un mismo archivo kml o kmz. El nombre del archivo incluye el nombre de el/la la autora y el año de publicación o generación.
+En el caso de tratarse de un multipolígono, este será válido siempre y cuando el archivo tenga una única geometría, es decir, que está conformado únicamente por polígonos o por puntos o por líneas. Es necesario que los objetos espaciales tengan el mismo nombre en un único archivo, de tal forma que todos los polígonos o puntos estén dentro de un mismo archivo kml o kmz. El nombre del archivo incluye el nombre de el/la la autora y el año de publicación o generación.
 
 **Para generar un kml o kmz, por favor siga las indicaciones [aquí](https://www.youtube.com/watch?v=j_SHMEp3bao).**
 
@@ -99,17 +94,19 @@ Seleccione todas las opciones que correspondan:
 ### <span style="color:red">Ecosistema\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 Fuente de información: [CONABIO](https://www.biodiversidad.gob.mx/ecosistemas/ecosismex).
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
-Seleccione ‘No determinado’ cuando no es posible identificar el ecosistema.
+
+- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+- Seleccione ‘No determinado’ cuando no es posible identificar el ecosistema.
 
 ----
 
 ### <span style="color:red">Tipo de vegetación\*</span> {.unnumbered}
 Las opciones de respuesta presentan dos niveles jerárquicos, por lo que podrá seleccionar los tipos de vegetación agrupados (escritos en letras mayúsculas; fuente de información: [CONABIO](https://www.biodiversidad.gob.mx/ecosistemas/ecosismex)) o los tipos de vegetación de acuerdo con el [INEGI](https://www.inegi.org.mx/temas/usosuelo/#Documentacion) (escritos en letras minúsculas). Por ejemplo, el MATORRAL XERÓFILO incluye al Mezquital, Matorral crasicaule, Matorral desértico micrófilo, Matorral desértico rosetófilo, etc. 
 
-Seleccione todas las opciones de la lista que correspondan. Podrá seleccionar tanto los tipos de vegetación como los agrupados . 
-Seleccione ‘No determinado’ cuando no es posible determinar el tipo de vegetación.
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione todas las opciones de la lista que correspondan. Podrá seleccionar tanto los tipos de vegetación como los agrupados.
+
+- Seleccione ‘No determinado’ cuando no es posible determinar el tipo de vegetación.
+- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 
 ![](images/Imagen12.png){width="250"}
@@ -131,8 +128,8 @@ Por favor, primero elija el sistema de clasificación y luego seleccione el tipo
 #### <span style="color:red">Sistema de clasificación\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda. Fuentes de información: [INEGI](https://www.inegi.org.mx/temas/edafologia/), [WRB](https://www.isric.org/explore/wrb#:~:text=WRB%20is%20a%20two%2Dtier,expression%20of%20certain%20soil%20features.) y  [USDA](https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-taxonomy).
 
-Seleccione ‘No determinado’ cuando no es posible determinar el sistema de clasificación y tipo de suelo o no se cuenta con la información.
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+- Seleccione ‘No determinado’ cuando no es posible determinar el sistema de clasificación y tipo de suelo o no se cuenta con la información.
+- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 
 ----
@@ -160,8 +157,9 @@ Si su proyecto de restauración se localiza en un área protegida, seleccione el
 
 #### <span style="color:red">Estado en donde se encuentra el área protegida\*</span> {.unnumbered}
 Seleccione la opción de la lista que corresponda. 
-Seleccione ‘No determinado’ cuando no es posible determinar el municipio.
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+
+- Seleccione ‘No determinado’ cuando no es posible determinar el municipio.
+- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 
@@ -186,8 +184,9 @@ Seleccione la opción de la lista que corresponda que se generó a partir de la 
 
 ### <span style="color:red">Principales causas de la degradación\*</span> {.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
-Seleccione ‘No determinado’ cuando no es posible determinar las causas de la degradación.
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+
+- Seleccione ‘No determinado’ cuando no es posible determinar las causas de la degradación.
+- Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
 
 ----
 

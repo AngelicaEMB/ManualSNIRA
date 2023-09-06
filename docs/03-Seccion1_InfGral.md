@@ -123,7 +123,7 @@ Campo de texto abierto que permite introducir comentarios o proporcionar mayores
 Por favor, escriba un resumen.
 Para información extraída de una publicación, incluya el resumen entre comillas " " para indicar que es una cita textual. 
 
-Si el resumen está en un idioma distinto al español, favor de traducirlo. Puede usar un servicio de traducción disponible en línea (p.ej. Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), favor de agregar al final del texto lo siguiente, por ejemplo: (Traducido por Google).
+Si el resumen está en un idioma distinto al español, favor de traducirlo. Puede usar un servicio de traducción disponible en línea (p. ej. Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), favor de agregar al final del texto lo siguiente, por ejemplo: (Traducido por Google).
 
 ----
 
@@ -263,3 +263,4 @@ En el caso de que todos los campos obligatorios hayan sido llenados, el sistema 
 Pulse el botón ‘Siguiente’ para pasar a la siguiente sección. 
 
 Si algún campo obligatorio se encuentra vacío, el botón ‘Guardar’ estará deshabilitado.
+

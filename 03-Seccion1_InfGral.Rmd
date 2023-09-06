@@ -34,14 +34,9 @@ En caso de que el título de la publicación esté en español, no es necesario 
 Seleccione la opción que corresponda:
 
 - Teórico:  Hace referencia a proyectos de experimentación en laboratorio o vivero, revisión de literatura, meta-análisis, estudios de percepción, modelación, desarrollo de plan de manejo, entre otros.
-<<<<<<< HEAD
 - Práctico: Hace referencia a proyectos que implementan acciones de restauración en campo;  incluye acciones que contribuyan a reducir la degradación, restaurar un sitio o recuperar un ecosistema o sitio particular.
 - Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo.
-=======
-- Práctico: Hace referencia a proyectos que implementan acciones de restauración  campo; incluye acciones que contribuyan a reducir la degradación o restaurar un sitio y recuperar un ecosistema o sitio particular.
-- Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo.
 
->>>>>>> 3242884524047490fa2dde1c0f0a95fd4fb93ed9
 
 
 ----
@@ -128,7 +123,7 @@ Campo de texto abierto que permite introducir comentarios o proporcionar mayores
 Por favor, escriba un resumen.
 Para información extraída de una publicación, incluya el resumen entre comillas " " para indicar que es una cita textual. 
 
-Si el resumen está en un idioma distinto al español, favor de traducirlo. Puede usar un servicio de traducción disponible en línea (p.ej. Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), favor de agregar al final del texto lo siguiente, por ejemplo: (Traducido por Google).
+Si el resumen está en un idioma distinto al español, favor de traducirlo. Puede usar un servicio de traducción disponible en línea (p. ej. Traductor de [Google](https://translate.google.com.mx/?hl=es) o [DeepL](https://www.deepl.com/es/translator)), favor de agregar al final del texto lo siguiente, por ejemplo: (Traducido por Google).
 
 ----
 

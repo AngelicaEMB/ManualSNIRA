@@ -6,7 +6,7 @@ La base de datos del SNIRA comprende cuatro secciones y 88 campos, de los cuales
 
 Se recomienda agregar toda la información disponible con la finalidad de enriquecer al SNIRA y apoyar al cumplimiento de los objetivos para los que fue diseñado. 
 
-En la medida de lo posible, los campos incluyen catálogos de vocabulario controlado para facilitar la captura de información y estandarizar las respuestas en la base de datos. Por favor, seleccione la opción de respuesta que más se ajuste a su proyecto. En caso de no contar con información para un campo, por favor seleccione ‘No determinado’. Si el campo no aplica para su proyecto, por favor seleccione ‘No aplica’.
+En la medida de lo posible, los campos incluyen catálogos de vocabulario controlado para facilitar la captura de información y estandarizar las respuestas en la base de datos. Por favor, seleccione la opción de respuesta que más se ajuste a su proyecto. En caso de no contar con información para un campo, por favor seleccione ‘No determinado’. Si el campo no aplica para su proyecto o cuando ninguna de las otras opciones es adecuada, por favor seleccione ‘No aplica’.
 
 Si no encuentra una opción de respuesta que aplique a su proyecto, puede escribir su respuesta en los campos de texto abierto correspondientes; estos campos sirven para poder proporcionar mayor detalle o escribir comentarios. Los campos de texto abierto se encuentran en todas las secciones y subsecciones del sistema.
 

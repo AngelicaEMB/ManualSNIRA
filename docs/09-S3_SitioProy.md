@@ -87,7 +87,7 @@ Seleccione todas las opciones que correspondan:
 - Salobre: Ambiente de transición entre aguas dulces y saladas del mar, aplica en particular para manglares.
 - Terrestre: Ambiente de tierra firme. Por ejemplo, incluye a los bosques templados y las selvas húmedas y subhúmedas.
 - No determinado: Seleccione cuando no es posible identificar el ambiente.
-- No aplica: Seleccione cuando no es aplicable a su proyecto.
+- No aplica: Seleccione cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 
@@ -95,9 +95,11 @@ Seleccione todas las opciones que correspondan:
 Seleccione todas las opciones de la lista que correspondan. 
 Fuente de información: [CONABIO](https://www.biodiversidad.gob.mx/ecosistemas/ecosismex).
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
-
 Seleccione ‘No determinado’ cuando no es posible identificar el ecosistema.
+
+Seleccione ‘No aplica’ cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
+
+
 
 ----
 
@@ -108,7 +110,7 @@ Seleccione todas las opciones de la lista que correspondan. Podrá seleccionar t
 
 Seleccione ‘No determinado’ cuando no es posible determinar el tipo de vegetación.
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 
 ![](images/Imagen12.png){width="250"}
@@ -132,7 +134,7 @@ Seleccione la opción de la lista que corresponda. Fuentes de información: [INE
 
 Seleccione ‘No determinado’ cuando no es posible determinar el sistema de clasificación y tipo de suelo o no se cuenta con la información.
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 
 ----
@@ -163,7 +165,7 @@ Seleccione la opción de la lista que corresponda.
 
 Seleccione ‘No determinado’ cuando no es posible determinar el municipio.
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 
@@ -173,10 +175,10 @@ Seleccione la opción de la lista que corresponda.
 
 - Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. Actualmente la Comisión Nacional de Áreas Naturales Protegidas (Conanp) administra 185 Áreas Naturales Protegidas de carácter federal administradas por la Comisión Nacional de Áreas Naturales Protegidas. Fuente de información: [Conanp, 2022](http://geoportal.conabio.gob.mx/metadatos/doc/html/anp2022gw.html#idinfo).
 
-- Área protegida subnacional: Áreas protegidas a nivel estatal, municipal,  comunitario, ejidal o privadas. Fuente de la información: [Conabio 2020](http://geoportal.conabio.gob.mx/metadatos/doc/html/anpest20gw.html)
+- Área protegida subnacional: Áreas protegidas a nivel estatal, municipal,  comunitario, ejidal o privadas. Fuente de la información: [Conabio, 2020](http://geoportal.conabio.gob.mx/metadatos/doc/html/anpest20gw.html).
 
 
-- Área destinada voluntariamente a la conservación (ADVC): Áreas protegidas que pueblos indígenas, organizaciones sociales, personas físicas o morales han destinado de manera voluntaria a la conservación. Fuente de la información: [Conanp, 2022](http://geoportal.conabio.gob.mx/#!l=advc2022gw@m=mixto)
+- Área destinada voluntariamente a la conservación (ADVC): Áreas protegidas que pueblos indígenas, organizaciones sociales, personas físicas o morales han destinado de manera voluntaria a la conservación. Fuente de la información: [Conanp, 2022](http://geoportal.conabio.gob.mx/#!l=advc2022gw@m=mixto).
 
 
 ----
@@ -191,7 +193,7 @@ Seleccione todas las opciones de la lista que correspondan.
 
 Seleccione ‘No determinado’ cuando no es posible determinar las causas de la degradación.
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 

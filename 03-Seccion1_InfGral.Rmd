@@ -106,7 +106,7 @@ Las acciones están enfocadas a recuperar los componentes, funciones y procesos 
 - Refaunación: Conjunto de acciones basadas en el manejo, introducción o reintroducción de poblaciones de fauna silvestre nativa que puedan reinstalar funciones ecológicas en una área, lo cual contribuye a la restauración de los ecosistemas.
 - Remediación: Conjunto de actividades que generalmente se emplean en sitios severamente impactados y degradados por actividades antropogénicas, p. ej., en minas a cielo abierto, vertederos o sitios postindustriales. 
 El objetivo principal es controlar o eliminar contaminantes que afectan o perturban en un área la calidad de suelo, agua o aire. Puede resultar en un reemplazo o reconstrucción de un ecosistema original.
-- No aplica: Seleccione cuando no es aplicable a su proyecto.
+- No aplica: Seleccione cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ![](images/08_EnfoSNIRA.png){width="660"}
 
@@ -181,7 +181,7 @@ Seleccione la opción que corresponda:
 - Concluido:  El proyecto finalizó, es decir ya no se encuentra en fase de planeación, implementación o monitoreo.
 - Cancelado: El proyecto fue suspendido, invalidado o similar en cualquier fase.
 - No determinado: Seleccione esta opción cuando no es posible identificar en qué fase se encuentra del proyecto.
-- No aplica: Seleccione esta opción cuando no es aplicable a su proyecto.
+- No aplica: Seleccione cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 
@@ -230,7 +230,7 @@ Seleccione la opción que corresponda:
 - Sí: Seleccione cuando se usó un sitio o ecosistema de referencia.
 - No: Seleccione cuando no se usó un sitio o ecosistema de referencia.
 - No determinado: Seleccione cuando no cuenta con la información.
-- No aplica: Seleccione cuando se trata de un estudio teórico o ninguna de las otras opciones aplica.
+- No aplica: Seleccione cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 

@@ -12,7 +12,7 @@ Seleccione la opción que corresponda:
 - Sí: Afirma que hubo, hay o habrá participación social en el proyecto.
 - No: No hubo, no hay o no habrá participación social en el proyecto.
 - No determinado: Seleccione cuando no es posible identificar si hubo, hay o habrá participación social.
-- No aplica: Seleccione cuando no es aplicable a su proyecto.
+- No aplica: cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 **Si seleccionó la opción ´Sí’, se habilitará el siguiente campo**:
 
@@ -40,7 +40,7 @@ Seleccione la opción que corresponda:
 - Sí: Afirma que hubo, hay o habrá objetivos establecidos por la comunidad.
 - No: No hubo, no hay o no habrá objetivos establecidos por la comunidad.
 - No determinado: Seleccione cuando no es posible identificar si hubo, hay o habrá objetivos establecidos por la comunidad.
-- No aplica: Seleccione cuando no es aplicable a su proyecto.
+- No aplica: cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 
@@ -57,7 +57,7 @@ Seleccione la opción que corresponda:
 - Sí: Afirma que se consideraron/consideran/considerarán conocimientos locales o tradicionales en el proyecto.
 - No: No se consideraron/consideran/considerarán conocimientos locales o tradicionales en el proyecto.
 - No determinado: Seleccione cuando no es posible identificar si se consideraron / consideran / considerarán conocimientos locales o tradicionales en el proyecto.
-- No aplica: Seleccione cuando no es aplicable a su proyecto.
+- No aplica: cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 

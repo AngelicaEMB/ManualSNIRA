@@ -11,7 +11,7 @@ Seleccione todas las opciones de la lista que correspondan.
 
 Seleccione ‘No determinado’ si no cuenta con la información. 
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 
@@ -20,7 +20,7 @@ Seleccione todas las opciones de la lista que correspondan.
 
 Seleccione ‘No determinado’ si no cuenta con la información. 
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 
@@ -39,7 +39,7 @@ Seleccione todas las opciones de la lista que correspondan.
 
 Seleccione ‘No determinado’ si no cuenta con la información. 
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 
@@ -53,7 +53,7 @@ Seleccione todas las opciones de la lista que correspondan.
 
 Seleccione ‘No determinado’ si no cuenta con la información. 
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 

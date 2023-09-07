@@ -16,7 +16,7 @@ Seleccione todas las opciones de la lista que correspondan.
 
 Seleccione ‘No determinado’ cuando no es posible determinar las actividades de restauración.
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 
@@ -45,7 +45,7 @@ Seleccione la opción de la lista que corresponda.
 
 Seleccione ‘No determinado’ cuando no es posible determinar el indicador.
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
  
@@ -54,7 +54,7 @@ Seleccione la opción de la lista que corresponda.
 
 Seleccione ‘No determinado’ cuando no es posible determinar el objeto.
 
-Seleccione ‘No aplica’ cuando no es aplicable a su proyecto.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 

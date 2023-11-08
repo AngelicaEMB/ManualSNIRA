@@ -8,7 +8,7 @@ La subsección comprende dos campos; ninguno es obligatorio.
 
 ### **Referencia**{.unnumbered}
 
-n caso de extraer la información de una publicación, escriba el apellido o título de la misma, no incluya referencias citadas en el documento; no use acentos, tildes u otros caracteres especiales, p. ej., escriba Perez Gomez en vez de Pérez-Gómez; escriba Basbug en vez de Başbuğ. 
+En caso de extraer la información de una publicación, escriba el apellido o título de la misma, no incluya referencias citadas en el documento; no use acentos, tildes u otros caracteres especiales, p. ej., escriba Perez Gomez en vez de Pérez-Gómez; escriba Basbug en vez de Başbuğ. 
 
 Al teclear la palabra, aparecerá una lista de 10 opciones que se actualiza conforme se sigue tecleando. Seleccione la referencia que corresponda.
 

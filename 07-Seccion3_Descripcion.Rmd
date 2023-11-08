@@ -2,9 +2,9 @@
 
 <br>
 
-Esta sección contiene seis subsecciones. En total, la sección comprende 49 campos, de los cuales **13 son estrictamente obligatorios  (<span style="color:red">\*</span>)**.
+Esta sección contiene seis subsecciones. En total, la sección comprende 50 campos, de los cuales **22 son obligatorios  (<span style="color:red">\*</span>)**.
 
-Puede navegar y completar las subsecciones según el orden establecido por medio del botón ‘Siguiente’ que está ubicado en la parte inferior del lado izquierdo para asegurar completar todas las subsecciones y campos obligatorios. 
+Puede navegar y completar las subsecciones según el orden establecido por medio del botón ‘Siguiente’ que está ubicado en la parte inferior del lado izquierdo. Esta opción se recomienda para asegurar completar todas las subsecciones y campos obligatorios. 
 
 No obstante, puede llenar las subsecciones en el orden que prefiera, seleccionando las pestañas que se encuentran en la parte superior, abajo del nombre de la sección. 
 

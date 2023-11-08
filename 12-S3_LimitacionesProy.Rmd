@@ -1,4 +1,4 @@
-#   Limitaciones e impactos del proyecto  {.unnumbered}
+#  3.5 **Limitaciones e impactos del proyecto**  {.unnumbered}
 
 <br>
 
@@ -15,22 +15,22 @@ Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ni
 
 ----
 
-### Indique las limitaciones específicas que enfrentó o enfrenta el proyecto{.unnumbered}
+### **Indique las limitaciones específicas que enfrentó o enfrenta el proyecto**{.unnumbered}
 Seleccione todas las opciones de la lista que correspondan. 
 
 Seleccione ‘No determinado’ si no cuenta con la información. 
 
-Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de Otras limitaciones generales o específicas.
 
 ----
 
-### Otras limitaciones generales o específicas{.unnumbered}
-Escriba otras limitaciones cuando no aparecen en la lista o cuando quiere dar más detalle, p. ej., falta de apoyo económico y capacitación para actividades de monitoreo de la flora a largo plazo.
+### **Otras limitaciones generales o específicas**{.unnumbered}
+Escriba de forma breve otras limitaciones cuando no aparecen en la lista, p. ej., falta de apoyo económico y capacitación para actividades de monitoreo de la flora a largo plazo.
 
 ----
 
-### Comentarios respecto a las limitaciones en el proyecto{.unnumbered}
-Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto a las limitaciones que enfrentó el proyecto que considera importantes indicar.
+### **Comentarios respecto a las limitaciones en el proyecto**{.unnumbered}
+Campo de texto abierto que permite introducir comentarios, opiniones, o más detalles respecto a las limitaciones que enfrentó el proyecto que considera importante indicar.
 
 ----
 
@@ -39,12 +39,12 @@ Seleccione todas las opciones de la lista que correspondan.
 
 Seleccione ‘No determinado’ si no cuenta con la información. 
 
-Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de Otros efectos positivos o impactos negativos sociales y culturales del proyecto.
 
 ----
 
-### Otros efectos positivos o impactos negativos sociales y culturales del proyecto{.unnumbered}
-Escriba los efectos positivos o impactos negativos sociales y culturales si no aparecen en la lista o quiera dar más detalles, p. ej., aumento de interés y participación de jóvenes en el proyecto.
+### **Otros efectos positivos o impactos negativos sociales y culturales del proyecto**{.unnumbered}
+Escriba brevemente los efectos positivos o impactos negativos sociales y culturales si no aparecen en la lista o quiera dar más detalles, p. ej., aumento de interés y participación de jóvenes en el proyecto.
 
 ----
 
@@ -53,26 +53,26 @@ Seleccione todas las opciones de la lista que correspondan.
 
 Seleccione ‘No determinado’ si no cuenta con la información. 
 
-Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
+Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de en el campo de Otros efectos positivos o impactos negativos económicos del proyecto.
 
 ----
 
-### Otros efectos positivos o impactos negativos económicos del proyecto{.unnumbered}
-Escriba los efectos positivos o impactos negativos económicos si no aparecen en la lista o quiera dar más detalles, p. ej., inserción en cadenas de valor en el mercado local y regional.
+### **Otros efectos positivos o impactos negativos económicos del proyecto**{.unnumbered}
+Escriba brevemente los efectos positivos o impactos negativos económicos si no aparecen en la lista o quiera dar más detalles, p. ej., inserción en cadenas de valor en el mercado local y regional.
 
 ----
 
-### Comentarios respecto a los efectos e impactos en el proyecto{.unnumbered}
-Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto a los efectos e impactos que considera importantes indicar.
+### **Comentarios respecto a los efectos e impactos en el proyecto**{.unnumbered}
+Campo de texto abierto que permite introducir comentarios, opiniones, o más  detalles respecto a los efectos e impactos que considera importantes indicar.
 
 ----
 
-### GUARDAR{.unnumbered}
+### **GUARDAR**{.unnumbered}
 
 **Pulse el botón ‘Guardar’, una vez que haya registrado los datos**.
 
 En el caso de que todos los campos obligatorios hayan sido llenados, el sistema abrirá una ventana con la leyenda 'Cambios guardados'. Pulse el botón ‘Aceptar’ para asegurar que la información haya sido guardada en el sistema. Si no se abre la ventana, vuelva a presionar el botón ´Guardar´ al menos dos veces más.
 
-Pulse el botón ‘Siguiente’ para pasar a la siguiente sección. 
+Pulse el botón ‘Siguiente’ para pasar a la siguiente subsección. 
 
 Si algún campo obligatorio se encuentra vacío, el botón ‘Guardar’ estará deshabilitado.

@@ -1,11 +1,9 @@
-# Sitio donde se ubica el proyecto {.unnumbered}
+# **3.2 Sitio donde se ubica el proyecto** {.unnumbered}
 
 <br>
 
-La subsección comprende 21 campos, de los cuales **seis son obligatorios (<span style="color:red">\*</span>)**.
-Pulse  ‘Agregar sitio +’ para que se desplieguen los campos y pueda capturar los datos del sitio. 
-
-Podrá agregar tantos sitios como desee a través del mismo botón. 
+La subsección comprende 21 campos, de los cuales **once son obligatorios (<span style="color:red">\*</span>)**.
+Pulse  ‘Agregar sitio +’ para que se desplieguen los campos y pueda capturar los datos del sitio. Podrá agregar tantos sitios como desee a través del mismo botón. 
 
 Pulse ‘Eliminar’ si no va a capturar información.
 
@@ -18,30 +16,30 @@ Pulse ‘Agregar sitio’ si va a capturar información.
 
 ----
 
-### Nombre del sitio {.unnumbered}
+### **Nombre del sitio** {.unnumbered}
 Escriba el nombre del sitio, p. ej., zona arqueológica Xochicalco. 
 Si no cuenta con la información, deje el campo vacío.
 
 ----
 
 ### <span style="color:red">Estado en el que se localiza el proyecto\*</span> {.unnumbered}
-Seleccione la opción que corresponda de la lista.
-Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/).
+Seleccione la opción de la lista que corresponda.
+Fuente de información: Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades del [INEGI](https://www.inegi.org.mx/app/ageeml/).
 
 ----
 
 ### <span style="color:red">Municipio en el que se localiza el proyecto\*</span> {.unnumbered}
-Seleccione la opción que corresponda de la lista.
-Fuente de información: [INEGI](https://www.inegi.org.mx/app/ageeml/).
+Seleccione la opción de la lista que corresponda.
+Fuente de información: Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales y Localidades del [INEGI](https://www.inegi.org.mx/app/ageeml/).
 
 ----
 
-### Coordenadas geográficas para localizar el sitio de estudio {.unnumbered}
+### **Coordenadas geográficas para localizar el sitio de estudio** {.unnumbered}
 **Latitud y Longitud**
 
-Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 21.161908) o sexagesimal (p. ej.,Lat: 21°90'43"; Long: 86°51'60").
+Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 19.301278; 99.186358) o sexagesimal (p. ej.,Lat: 19°18'04.60"; Long: 99°11'10.89").
 
-Para el formato sexagesimal, por favor use las **comillas simples para denotar minutos ( ' ) y dobles para segundos ( " )**. Si usa cualquier otro símbolo parecido o no incluye la letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección.
+Para el formato sexagesimal, por favor use grado ( ° ), las **comillas simples para denotar minutos ( ' ) y dobles para segundos ( " )**. Si usa cualquier otro símbolo parecido o coloca una letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección. No coloque ninguna letra para indicar latitud o longitud (p. ej. N u O), ya que el sistema automáticamente
 
 Las líneas de longitud van de norte a sur y miden los grados hacia el este o el oeste desde el meridiano 0 de Greenwich. Los valores pueden ir de -180 a +180°. Las líneas de latitud van de este a oeste y miden los grados hacia el norte o el sur desde el ecuador. Los valores van de +90° en el Polo Norte a -90° en el Polo Sur.. 
 
@@ -54,24 +52,24 @@ Según el [**INEGI**](https://embamex.sre.gob.mx/eua/index.php/es/enterate/391-a
 
 ----
 
-### Altitud (msnm){.unnumbered}
-Indique la altitud del sitio de estudio, puede utilizar un valor simple p. ej., 632 ó  un rango altitudinal 2400-2800.
+### **Altitud (msnm)**{.unnumbered}
+Indique la altitud del sitio de estudio, puede utilizar un valor simple p. ej., 632 o  un rango altitudinal 2400-2800.
 
 ----
 
-### Profundidad (m). (Aplica para ambientes marinos y acuáticos.) {.unnumbered}
-Indique la profundidad del sitio de estudio, podrá utilizar un valor simple p. ej., 7 ó un rango 2.37-2.81.
+### **Profundidad (m). (Aplica para ambientes marinos y acuáticos.)** {.unnumbered}
+Indique la profundidad del sitio de estudio, podrá utilizar un valor simple p. ej., 7 o un rango 2.37-2.81.
 
 ----
 
-### Archivo espacial{.unnumbered}
-Si cuenta con un archivo espacial que delimita el área de trabajo de su proyecto o una imagen que indique con precisión los sitios de estudio, lo puede subir aquí. La información será utilizada para poder desplegar el o los sitios de estudio en el mapa (véase la pestaña “Consulte los proyectos”). 
+### **Archivo espacial**{.unnumbered}
+Si cuenta con un archivo espacial que delimita el área de trabajo de su proyecto, lo puede subir aquí. La información será utilizada para poder desplegar el o los sitios de estudio en el mapa (véase la pestaña 'Consulte los proyectos'). 
 
 **El formato aceptado es un archivo kml o kmz.** 
 
 El área de trabajo o los sitios de estudio se pueden representar mediante “puntos” (a partir de las coordenadas XY), “líneas” o “polígonos”, y pueden contener más de un objeto espacial o elementos georeferenciados (p. ej., un multipolígono). 
 
-En el caso de tratarse de un multipolígono, este será válido siempre y cuando el archivo tenga una única geometría, es decir, que está conformado únicamente por polígonos o por puntos o por líneas. Es necesario que los objetos espaciales tengan el mismo nombre en un único archivo, de tal forma que todos los polígonos o puntos estén dentro de un mismo archivo kml o kmz. El nombre del archivo incluye el nombre de el/la la autora y el año de publicación o generación.
+En el caso de tratarse de un multipolígono, este será válido siempre y cuando el archivo tenga una única geometría, es decir, que está conformado únicamente por polígonos o por puntos o por líneas. Es necesario que los objetos espaciales tengan el mismo nombre en un único archivo, de tal forma que todos los polígonos o puntos estén dentro de un mismo archivo kml o kmz. El nombre del archivo incluye el nombre de el/la la autor(a) y el año de publicación o generación.
 
 **Para generar un kml o kmz, por favor siga las indicaciones [aquí](https://www.youtube.com/watch?v=j_SHMEp3bao).**
 
@@ -106,7 +104,7 @@ Seleccione ‘No aplica’ cuando no es aplicable para su proyecto, o cuando nin
 ### <span style="color:red">Tipo de vegetación\*</span> {.unnumbered}
 Las opciones de respuesta presentan dos niveles jerárquicos, por lo que podrá seleccionar los tipos de vegetación agrupados (escritos en letras mayúsculas; fuente de información: [CONABIO](https://www.biodiversidad.gob.mx/ecosistemas/ecosismex)) o los tipos de vegetación de acuerdo con el [INEGI](https://www.inegi.org.mx/temas/usosuelo/#Documentacion) (escritos en letras minúsculas). Por ejemplo, el MATORRAL XERÓFILO incluye al Mezquital, Matorral crasicaule, Matorral desértico micrófilo, Matorral desértico rosetófilo, etc. 
 
-Seleccione todas las opciones de la lista que correspondan. Podrá seleccionar tanto los tipos de vegetación como los agrupados.
+Seleccione todas las opciones de la lista que correspondan. Podrá seleccionar tanto los tipos de vegetación como las agrupaciones de las comunidades vegetales.
 
 Seleccione ‘No determinado’ cuando no es posible determinar el tipo de vegetación.
 
@@ -117,7 +115,7 @@ Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ni
 
 ----
 
-### Observaciones sobre la vegetación{.unnumbered}
+### **Observaciones sobre la vegetación**{.unnumbered}
 Escriba el tipo de vegetación cuando no aparece en el catálogo o quiera dar más detalle, p. ej., selva inundable, bosque de pino secundario. 
 
 ----
@@ -139,19 +137,19 @@ Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ni
 
 ----
 
-#### Tipo de suelo{.unnumbered}
+#### **Tipo de suelo**{.unnumbered}
 Seleccione todas las opciones de la lista que correspondan conforme al sistema de clasificación seleccionado. 
 
 ![](images/Imagen16.png){width="700"}
 
 ----
 
-### Observaciones sobre el tipo de suelo{.unnumbered}
+### **Observaciones sobre el tipo de suelo**{.unnumbered}
 Escriba el tipo de suelo cuando no aparece en el catálogo o quiera dar más detalle, p. ej., Leptosol calcáreo.  
 
 ----
 
-### Área protegida {.unnumbered}
+### **Áreas protegidas** {.unnumbered}
 Si su proyecto de restauración se localiza en un área protegida, seleccione el botón ‘Área protegida +’. A continuación, se desplegarán campos relacionados para la localización del área protegida. 
 
 ![](images/Imagen14.png){width="200"}
@@ -173,9 +171,9 @@ Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ni
 Seleccione la opción de la lista que corresponda. 
 
 
-- Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. Actualmente la Comisión Nacional de Áreas Naturales Protegidas (Conanp) administra 185 Áreas Naturales Protegidas de carácter federal administradas por la Comisión Nacional de Áreas Naturales Protegidas. Fuente de información: [Conanp, 2022](http://geoportal.conabio.gob.mx/metadatos/doc/html/anp2022gw.html#idinfo).
+- Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. La lista contiene 203 Áreas Naturales Protegidas de carácter federal administradas por la Comisión Nacional de Áreas Naturales Protegidas. Fuente de información: [Conanp, 2023](http://sig.conanp.gob.mx/website/pagsig/info_shape.html).
 
-- Área protegida subnacional: Áreas protegidas a nivel estatal, municipal,  comunitario, ejidal o privadas. Fuente de la información: [Conabio, 2020](http://geoportal.conabio.gob.mx/metadatos/doc/html/anpest20gw.html).
+- Área protegida subnacional: Áreas protegidas estatales, municipales,  comunitarias, ejidales o privadas. Fuente de la información: [Conabio, 2020](http://geoportal.conabio.gob.mx/metadatos/doc/html/anpest20gw.html).
 
 
 - Área destinada voluntariamente a la conservación (ADVC): Áreas protegidas que pueblos indígenas, organizaciones sociales, personas físicas o morales han destinado de manera voluntaria a la conservación. Fuente de la información: [Conanp, 2022](http://geoportal.conabio.gob.mx/#!l=advc2022gw@m=mixto).
@@ -197,22 +195,22 @@ Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ni
 
 ----
 
-### Indique otras causas o comentarios respecto a las causas de la degradación en el sitio{.unnumbered}
+### **Indique otras causas o comentarios respecto a las causas de la degradación en el sitio**{.unnumbered}
 Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto a las causas de la degradación, p. ej., para indicar otras causas que no aparecen en el catálogo.
 
 ----
 
-### Comentarios respecto al sitio donde se realizaron / realizan / realizarán las actividades de restauración{.unnumbered}
+### **Comentarios respecto al sitio donde se realizaron / realizan / realizarán las actividades de restauración**{.unnumbered}
 Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto al sitio de restauración que considera importantes indicar.
 
 ----
 
-### GUARDAR{.unnumbered}
+### **GUARDAR**{.unnumbered}
 
 **Pulse el botón ‘Guardar’, una vez que haya registrado los datos**.
 
 En el caso de que todos los campos obligatorios hayan sido llenados, el sistema abrirá una ventana con la leyenda 'Cambios guardados'. Pulse el botón ‘Aceptar’ para asegurar que la información haya sido guardada en el sistema. Si no se abre la ventana, vuelva a presionar el botón ´Guardar´ al menos dos veces más.
 
-Pulse el botón ‘Siguiente’ para pasar a la siguiente sección. 
+Pulse el botón ‘Siguiente’ para pasar a la siguiente subsección. 
 
 Si algún campo obligatorio se encuentra vacío, el botón ‘Guardar’ estará deshabilitado.

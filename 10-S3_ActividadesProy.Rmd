@@ -2,7 +2,7 @@
 
 <br>
 
-La subsección comprende siete campos; **tres campo son obligatorios (<span style="color:red">\*</span>)**.
+La subsección comprende siete campos; **tres campos son obligatorios (<span style="color:red">\*</span>)**.
 
 ----
 

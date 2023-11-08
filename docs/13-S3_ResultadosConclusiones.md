@@ -1,4 +1,4 @@
-#  3.6 ** Resultados y conclusiones**  {.unnumbered}
+#  3.6 **Resultados y conclusiones**  {.unnumbered}
 
 <br>
 

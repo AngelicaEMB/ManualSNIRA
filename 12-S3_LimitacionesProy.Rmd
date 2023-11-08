@@ -63,7 +63,7 @@ Escriba brevemente los efectos positivos o impactos negativos económicos si no 
 ----
 
 ### **Comentarios respecto a los efectos e impactos en el proyecto**{.unnumbered}
-Campo de texto abierto que permite introducir comentarios, opiniones, o más  detalles respecto a los efectos e impactos que considera importantes indicar.
+Campo de texto abierto que permite introducir comentarios, opiniones, o más  detalles respecto a los efectos e impactos que considera importante indicar.
 
 ----
 

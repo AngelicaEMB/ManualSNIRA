@@ -1,4 +1,4 @@
-# **3.2 Sitio donde se ubica el proyecto** {.unnumbered}
+# 3.2 **Sitio donde se ubica el proyecto** {.unnumbered}
 
 <br>
 
@@ -39,7 +39,7 @@ Fuente de información: Catálogo Único de Claves de Áreas Geoestadísticas Es
 
 Indique las coordenadas utilizando las mediciones esféricas de latitud y longitud en formato decimal (p. ej., 19.301278; 99.186358) o sexagesimal (p. ej.,Lat: 19°18'04.60"; Long: 99°11'10.89").
 
-Para el formato sexagesimal, por favor use grado ( ° ), las **comillas simples para denotar minutos ( ' ) y dobles para segundos ( " )**. Si usa cualquier otro símbolo parecido o coloca una letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección. No coloque ninguna letra para indicar latitud o longitud (p. ej. N u O), ya que el sistema automáticamente
+Para el formato sexagesimal, por favor use grado ( ° ), las **comillas simples para denotar minutos ( ' ) y dobles para segundos ( " )**. Si usa cualquier otro símbolo parecido o coloca una letra, el sistema no podrá ubicar correctamente el sitio y lo identificará como un error, por lo que no se podrá guardar la información de la subsección. No coloque ninguna letra para indicar latitud o longitud (p. ej. N u O), el sistema lo convierte automáticamente.
 
 Las líneas de longitud van de norte a sur y miden los grados hacia el este o el oeste desde el meridiano 0 de Greenwich. Los valores pueden ir de -180 a +180°. Las líneas de latitud van de este a oeste y miden los grados hacia el norte o el sur desde el ecuador. Los valores van de +90° en el Polo Norte a -90° en el Polo Sur.. 
 
@@ -171,7 +171,7 @@ Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ni
 Seleccione la opción de la lista que corresponda. 
 
 
-- Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. La lista contiene 203 Áreas Naturales Protegidas de carácter federal administradas por la Comisión Nacional de Áreas Naturales Protegidas. Fuente de información: [Conanp, 2023](http://sig.conanp.gob.mx/website/pagsig/info_shape.html).
+- Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. La lista contiene 203 Áreas Naturales Protegidas de carácter federal administradas por la Comisión Nacional de Áreas Naturales Protegidas. Fuente de información: [Conanp, 2023](http://sig.conanp.gob.mx/website/pagsig/info_shape.htm).
 
 - Área protegida subnacional: Áreas protegidas estatales, municipales,  comunitarias, ejidales o privadas. Fuente de la información: [Conabio, 2020](http://geoportal.conabio.gob.mx/metadatos/doc/html/anpest20gw.html).
 

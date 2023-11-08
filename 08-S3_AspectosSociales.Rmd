@@ -50,7 +50,7 @@ Campo de texto abierto que permite introducir comentarios, opiniones, etc. respe
 ----
 
 ### <span style="color:red">Indique si el proyecto consideró / considera / considerará conocimientos locales o tradicionales\*</span> {.unnumbered}
-El conocimiento local o tradicional se refiere al conjunto de conocimientos, valores, actitudes y prácticas adquiridas a lo largo del tiempo y transmitidos de generación en generación; en el caso del conocimiento local son específicos de un lugar.
+El conocimiento local o tradicional se refiere al conjunto de conocimientos, valores, actitudes y prácticas adquiridas a lo largo del tiempo y transmitidos de generación en generación; en el caso del conocimiento local estos son específicos de un lugar.
 
 Seleccione la opción que corresponda:
 
@@ -72,6 +72,6 @@ Campo de texto abierto que permite introducir comentarios, opiniones, etc. respe
 
 En el caso de que todos los campos obligatorios hayan sido llenados, el sistema abrirá una ventana con la leyenda 'Cambios guardados'. Pulse el botón ‘Aceptar’ para asegurar que la información haya sido guardada en el sistema. Si no se abre la ventana, vuelva a presionar el botón ´Guardar´ al menos dos veces más.
 
-Pulse el botón ‘Siguiente’ para pasar a la siguiente sección. 
+Pulse el botón ‘Siguiente’ para pasar a la siguiente subsección. 
 
 Si algún campo obligatorio se encuentra vacío, el botón ‘Guardar’ estará deshabilitado.

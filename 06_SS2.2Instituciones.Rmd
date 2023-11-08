@@ -13,7 +13,7 @@ Seleccione todas las opciones que correspondan:
 
 - Academia:  Proyecto propuesto o realizado por personas docentes, personas investigadoras universitarias de instituciones educativas, personas investigadoras de instituciones no educativas.
 - Comunitaria: Proyecto propuesto o realizado por comunidades indígenas o rurales de México.
-- Privada: Proyecto propuesto o realizado por una iniciativa privada, p. ej. por el Grupo Bimbo o CEMEX.
+- Privada: Proyecto propuesto o realizado por una iniciativa privada, p. ej., por el Grupo Bimbo o CEMEX.
 - Pública: Proyecto propuesto o realizado por una iniciativa pública. Por ejemplo, aplica para proyectos de la Comisión Nacional de Áreas Nacionales Protegidas (CONANP) o la Comisión Nacional Forestal (CONAFOR).
 - Organización de la sociedad civil: Proyecto propuesto o realizado por la iniciativa social.
 - Otra: Seleccione cuando el tipo de iniciativa no aparece en la lista.
@@ -38,14 +38,14 @@ Seleccione la opción que corresponda:
 
 ----
 
-### Lista de instituciones
+### **Lista de instituciones**
 Pulse ‘Agregar institución +’
 
 ![](images/Imagen7.png){width="200"}
 
 ----
 
-### Pulse ‘Agregar institución +’ {.unnumbered}
+### **Pulse ‘Agregar institución +’** {.unnumbered}
 para que se desplieguen los campos y pueda capturar los datos. Si no cuenta con información, puede saltarse esta parte. 
 **Si su proyecto se ubica en un área protegida, por favor agregue a la Comisión Nacional de Áreas Nacionales Protegidas.**
 
@@ -53,7 +53,7 @@ Pulse ‘Eliminar’ sino va a capturar información.
 
 ----
 
-### Institución que participó / participa / participará en el proyecto {.unnumbered}
+### **Institución que participó / participa / participará en el proyecto** {.unnumbered}
 
 Seleccione una opción de la lista; puede empezar a escribir el nombre para que aparezcan opciones con nombre similares. 
 
@@ -65,7 +65,7 @@ En caso de no encontrar la institución deseada, seleccione la opción de ‘---
  
 ----
 
-#### En caso de no encontrar la institución, por favor indique el nombre{.unnumbered}
+#### **En caso de no encontrar la institución, por favor indique el nombre**{.unnumbered}
 Campo de texto abierto que permite introducir el nombre de la institución y su dependencia, p. ej., Colegio de Postgraduados, Campus Montecillo; Instituto de Recursos Naturales, Laboratorio de Etnobotánica. 
 
 ----
@@ -79,16 +79,16 @@ Seleccione ‘No aplica’ cuando no es aplicable para su proyecto, o cuando nin
 
 ----
 
-### Comentarios respecto a las instituciones involucradas{.unnumbered}
+### **Comentarios respecto a las instituciones involucradas**{.unnumbered}
 Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto a las instituciones involucradas.
 
 ----
 
-### GUARDAR{.unnumbered}
+### **GUARDAR**{.unnumbered}
 
 **Pulse el botón ‘Guardar’, una vez que haya registrado los datos**.
 
-En el caso de que todos los campos obligatorios hayan sido llenados, el sistema abrirá una ventana con la leyenda 'Cambios guardados'. Pulse el botón ‘Aceptar’ para asegurar que la información haya sido guardada en el sistema. Si no se abre la ventana, vuelva a presionar el botón ´Guardar´ al menos dos veces más.
+En el caso de que todos los campos obligatorios hayan sido llenados, el sistema abrirá una ventana con la leyenda 'Cambios guardados'. Pulse el botón ‘Aceptar’ para asegurar que la información haya sido guardada en el sistema. Si no se abre la ventana, vuelva a presionar el botón ´Guardar´.
 
 Pulse el botón ‘Siguiente’ para pasar a la siguiente sección. 
 

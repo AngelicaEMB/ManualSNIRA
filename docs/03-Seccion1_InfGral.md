@@ -1,4 +1,4 @@
-# Información general 
+# **Información general** 
 
 <br>
 
@@ -21,7 +21,7 @@ Si el nombre de la publicación o del proyecto está en un idioma distinto, favo
 
 ----
 
-### Nombre original del proyecto {.unnumbered}
+### **Nombre original del proyecto** {.unnumbered}
 
 Escriba el nombre de un proyecto en el idioma original cuando este sea diferente al idioma español. Cuando la información que se captura es extraída de una publicación, ponga el título de la publicación. 
 
@@ -34,7 +34,7 @@ En caso de que el título de la publicación esté en español, no es necesario 
 Seleccione la opción que corresponda:
 
 - Teórico:  Hace referencia a proyectos de experimentación en laboratorio o vivero, revisión de literatura, meta-análisis, estudios de percepción, modelación, desarrollo de plan de manejo, entre otros.
-- Práctico: Hace referencia a proyectos que implementan acciones de restauración en campo;  incluye acciones que contribuye a reducir la degradación, restaurar un sitio o recuperar un ecosistema o sitio particular.
+- Práctico: Hace referencia a proyectos que implementan acciones de restauración en campo;  incluye acciones que contribuyen a reducir la degradación, restaurar un sitio o recuperar un ecosistema o sitio particular.
 - Teórico-Práctico: Hace referencia a proyectos mixtos, p. ej., germinación y crecimiento en invernadero y posterior trasplante a campo.
 
 
@@ -49,7 +49,7 @@ Seleccione la opción que corresponda:
 
  
 
-- Sí: Refiere a proyecto específicos que forma parte de un programa o proyecto más amplio; p. ej., Proyecto GEF-Invasoras 'Aumentar las Capacidades Nacionales para el Manejo de las Especies Exóticas Invasoras (EEI) a través de la Implementación de la Estrategia Nacional de EEI' o Programas de Acción para la Conservación de Especie (PACE).
+- Sí: Refiere a proyecto específico que forma parte de un programa o proyecto más amplio; p. ej., Proyecto GEF-Invasoras 'Aumentar las Capacidades Nacionales para el Manejo de las Especies Exóticas Invasoras (EEI) a través de la Implementación de la Estrategia Nacional de EEI' o Programas de Acción para la Conservación de Especie (PACE).
 
 En caso de que sí forme parte de un proyecto más amplio, seleccione la opción que corresponda de la lista.
 
@@ -249,13 +249,13 @@ Campo de texto abierto que permite introducir comentarios, opiniones, etc. respe
 
 Puede subir máximo cinco fotografías o ilustraciones de su sitio de estudio con un peso de 5 MB. Puede mostrar las condiciones ambientales antes o después de las acciones de la restauración o evidencia de las acciones; p. ej., la cobertura vegetal antes y después de la intervención, la macrofauna del suelo, evidencias de herbivoría, dunas costeras invadidas por especies exóticas, evidencia del trasplante de vegetación o sembrado de semillas.
 
-Al compartir imágenes en baja resolución en el Sistema Nacional de Información para la Restauración Ambiental (SNIRA), la Conabio podrá usar las imágenes para su publicación en página web del SNIRA (p. ej., para una galería de fotos). Llene la tabla que se encuentra en el archivo licencia de uso para dar el crédito correspondiente e indicar la licencia correspondiente, envíe el archivo al siguiente correo: snira@conabio.gob.mx. Si no especifica la licencia de uso, se considerará la ‘Atribución-NoComercial 4.0 Internacional’ (CC BY-NC 4.0), que permite compartir la o las imágenes en cualquier medio o formato sin fines comerciales, con la condición de dar el crédito correspondiente de forma legible. Para mayor información sobre las licencias de uso, véase <https://creativecommons.org/licenses/?lang=es>. En caso de no indicar los créditos de las imágenes se considerará que las imágenes pertenecen a la persona usuaria que registró el proyecto en el SNIRA.
+Al compartir imágenes en baja resolución en el Sistema Nacional de Información para la Restauración Ambiental (SNIRA), la Conabio podrá usar las imágenes para su publicación en página web del SNIRA (p. ej., para una galería de fotos). Llene la tabla que se encuentra en el archivo [licencia de uso](https://docs.google.com/document/d/1CJA0fytTKF3pLVnFdlBK0gG5upLSupsU/edit) para dar el crédito correspondiente e indicar la licencia correspondiente, envíe el archivo al siguiente correo: snira@conabio.gob.mx. Si no especifica la licencia de uso, se considerará la ‘Atribución-NoComercial 4.0 Internacional’ (CC BY-NC 4.0), que permite compartir la o las imágenes en cualquier medio o formato sin fines comerciales, con la condición de dar el crédito correspondiente de forma legible. Para mayor información sobre las licencias de uso, véase <https://creativecommons.org/licenses/?lang=es>. En caso de no indicar los créditos de las imágenes se considerará que las imágenes pertenecen a la persona usuaria que registró el proyecto en el SNIRA.
 
 **Si desea que estas imágenes sean incluidas en el [Banco de imágenes de la Conabio](https://bdi.conabio.gob.mx/fotoweb/), por favor, envíe las imágenes en alta resolución (al menos 3500 pixeles por lado, en JPG o TIFF a 300 dpi o RAW) y la [licencia de uso](https://docs.google.com/document/d/1CJA0fytTKF3pLVnFdlBK0gG5upLSupsU/edit) a los siguientes correos: bancoima@xolo.conabio.gob.mx y snira@conabio.gob.mx con "Imágenes en el SNIRA" como el asunto del correo electrónico.**
 
 ----
 
-### GUARDAR {.unnumbered}
+### **GUARDAR** {.unnumbered}
 
 **Pulse el botón ‘Guardar’, una vez que haya registrado los datos**.
 

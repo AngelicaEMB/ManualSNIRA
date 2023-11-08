@@ -1,4 +1,4 @@
-# 3.1 Aspectos sociales {.unnumbered}
+# 3.1 **Aspectos sociales** {.unnumbered}
 
 <br>
 
@@ -20,7 +20,7 @@ Seleccione la opción que corresponda:
 
 ----
 
-### Indique ¿en qué etapa del proyecto hubo/hay/habrá participación social? {.unnumbered}
+### **Indique ¿en qué etapa del proyecto hubo/hay/habrá participación social?** {.unnumbered}
 Seleccione todas las opciones que correspondan:
 
 - Inicial: Planeación y diseño
@@ -29,8 +29,8 @@ Seleccione todas las opciones que correspondan:
 
 ----
 
-### Comentarios respecto al tipo de participación social{.unnumbered}
-Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto al tipo de participación social, p. ej., para indicar en qué consistió la participación durante cada una de las etapas según corresponda, por ejemplo,  los hombres y mujeres de la comunidad X discutieron la definición de los objetivos del proyecto o apoyaron en el monitoreo de supervivencia de plántulas, entre otros.
+### **Comentarios respecto al tipo de participación social**{.unnumbered}
+Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto al tipo de participación social, p. ej., para indicar en qué consistió la participación durante cada una de las etapas según corresponda, por ejemplo,  los hombres y mujeres de la comunidad discutieron la definición de los objetivos del proyecto o apoyaron en el monitoreo de supervivencia de plántulas, entre otros.
 
 ----
 
@@ -40,33 +40,33 @@ Seleccione la opción que corresponda:
 - Sí: Afirma que hubo, hay o habrá objetivos establecidos por la comunidad.
 - No: No hubo, no hay o no habrá objetivos establecidos por la comunidad.
 - No determinado: Seleccione cuando no es posible identificar si hubo, hay o habrá objetivos establecidos por la comunidad.
-- No aplica: cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
+- No aplica: cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada; puede escribir su respuesta en el campo de comentarios.
 
 ----
 
-### Comentarios respecto a los objetivos de la comunidad {.unnumbered}
+### **Comentarios respecto a los objetivos de la comunidad** {.unnumbered}
 Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto a los objetivos de la comunidad e indicar en cuáles fueron, son o serán los objetivos establecidos, p. ej., plantar 20 ha con cinco especies de árboles frutales y frenar la erosión del suelo o restaurar los canales de pesca para aumentar el hábitat de las especies de mayor valor comercial.
 
 ----
 
 ### <span style="color:red">Indique si el proyecto consideró / considera / considerará conocimientos locales o tradicionales\*</span> {.unnumbered}
-El conocimiento local o tradicional se refiere al conjunto de conocimientos, valores, actitudes y prácticas adquiridas a lo largo del tiempo y transmitidos de generación en generación, que son específicos de un lugar en caso del conocimiento local.
+El conocimiento local o tradicional se refiere al conjunto de conocimientos, valores, actitudes y prácticas adquiridas a lo largo del tiempo y transmitidos de generación en generación; en el caso del conocimiento local son específicos de un lugar.
 
 Seleccione la opción que corresponda:
 
 - Sí: Afirma que se consideraron/consideran/considerarán conocimientos locales o tradicionales en el proyecto.
 - No: No se consideraron/consideran/considerarán conocimientos locales o tradicionales en el proyecto.
 - No determinado: Seleccione cuando no es posible identificar si se consideraron / consideran / considerarán conocimientos locales o tradicionales en el proyecto.
-- No aplica: cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
+- No aplica: Seleccione cuando no es aplicable para su proyecto, o cuando ninguna de las otras opciones es adecuada, puede escribir su respuesta en el campo de comentarios.
 
 ----
 
-### Comentarios respecto al conocimiento local o tradicional {.unnumbered}
+### **Comentarios respecto al conocimiento local o tradicional** {.unnumbered}
 Campo de texto abierto que permite introducir comentarios, opiniones, etc. respecto al conocimiento local o tradicional, p. ej., para indicar de qué manera se incluyó el conocimiento tradicional: p. ej., en el manejo y cuidado de plantas.
 
 ----
 
-### GUARDAR {.unnumbered}
+### **GUARDAR** {.unnumbered}
 
 **Pulse el botón ‘Guardar’, una vez que haya registrado los datos**.
 

@@ -14,14 +14,14 @@ Por favor, escriba y capture los datos en español. Si copia información de un 
 
 ----
 
-## Guardar información capturada {.unnumbered}
+## **Guardar información capturada** {.unnumbered}
 Después de capturar los datos de cada sección y subsección, pulse ‘Guardar’ para almacenar la información ingresada. Si todos los campos obligatorios han sido llenados, el sistema abrirá una ventana con la leyenda 'Cambios guardados'. Pulse el botón ‘Aceptar’ para asegurar que la información haya sido guardada en el sistema. El botón de ‘Guardar’ solamente se activará cuando todos los campos obligatorios de una sección tengan información. **Si por algún motivo tiene que interrumpir el llenado de campos, asegúrese de llenar todos los campos obligatorios y pulsar el botón ‘Guardar’ para poder seguir la captura en otro momento**.
 
 Pulse el botón ‘Siguiente’ para pasar a la siguiente sección o subsección. 
 
 ----
 
-## Editar información capturada {.unnumbered}
+## **Editar información capturada** {.unnumbered}
 Podrá editar la información las veces que sean necesarias mientras su proyecto esté en el estado de  **‘Edición’** (véase las ‘Instrucciones’ en la parte superior de la sección 1: Información general). Una vez que pulse el botón ‘Enviar a revisión mi proyecto’ (ubicado al final de los campos, es decir, después de la sección 4: Fuentes de información), automáticamente el estado del proyecto cambiará a ‘En revisión’ y ya no será posible hacer cambios. En caso de  que haya campos obligatorios vacíos o el sistema encuentre inconsistencias en los datos capturados, el estado se mantendrá en ‘Edición’. **Si requiere hacer algún cambio después de haber enviado el proyecto a revisión, deberá enviar un correo electrónico a snira@conabio.gob.mx**.
 
 
@@ -33,7 +33,7 @@ A continuación se explican con detalle cada una de las secciones y los campos d
 
 ----
 
-## Primer paso {.unnumbered}
+## **Primer paso** {.unnumbered}
 **Registre un nuevo proyecto**
 
 En esta sección encontrará las instrucciones para la captura de la información en la base de datos, así como el [**Aviso de privacidad**](https://www.biodiversidad.gob.mx/conabio/proteccion-DP/ap-solicitudes-de-acceso-infopub) y los [**Términos y condiciones de uso del sitio**](https://www.gob.mx/terminos).
@@ -44,7 +44,7 @@ El primer campo obligatorio es ‘Nombre del proyecto’. Al escribir el nombre 
 
 ----
 
-## Ventana de inicio {.unnumbered}
+## **Ventana de inicio** {.unnumbered}
 
 Después de ingresar el nombre del proyecto, mismo que podrá editar posteriormente si así lo desea, aparecerá la ventana principal donde podrá navegar entre secciones. Además, podrá observar el progreso actual en la captura de información en la parte superior izquierda.
 

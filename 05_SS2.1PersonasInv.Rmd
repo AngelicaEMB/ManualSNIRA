@@ -81,7 +81,7 @@ Campo de texto abierto que permite introducir comentarios, opiniones, etc. respe
 
 ----
 
-### GUARDAR{.unnumbered}
+### **GUARDAR**{.unnumbered}
 
 **Pulse el botón ‘Guardar’, una vez que haya registrado los datos**.
 

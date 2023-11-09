@@ -18,7 +18,7 @@ csl: "chicago-fullnote-bibliography.csl"
 
 # **Manual para personas usuarias** {.unnumbered}
 
-![](images/SNIRA-inicio.PNG){width="640"}
+![](images/SNIRA-inicio.PNG){width="680"}
 
 ## SNIRA {.unnumbered}
 

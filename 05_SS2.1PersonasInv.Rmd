@@ -50,7 +50,7 @@ Seleccione la opción que corresponda:
 
 ----
 
-### **Indique si pertenece a algún pueblo originario**{.unnumbered}
+### **Indique si la persona pertenece a algún pueblo originario**{.unnumbered}
 
 Seleccione la opción de la lista que corresponda. 
 

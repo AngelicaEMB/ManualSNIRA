@@ -7,7 +7,6 @@ Pulse  ‘Agregar sitio +’ para que se desplieguen los campos y pueda capturar
 
 Pulse ‘Eliminar’ si no va a capturar información.
 
-Pulse ‘Agregar sitio’ si va a capturar información.
 
 ![](images/Imagen10.png){width="200"}
 
@@ -171,7 +170,7 @@ Seleccione ‘No aplica’  cuando no es aplicable para su proyecto, o cuando ni
 Seleccione la opción de la lista que corresponda. 
 
 
-- Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. La lista contiene 203 Áreas Naturales Protegidas de carácter federal administradas por la Comisión Nacional de Áreas Naturales Protegidas. Fuente de información: [Conanp, 2023](http://sig.conanp.gob.mx/website/pagsig/info_shape.htm).
+- Área protegida federal: Áreas Naturales Protegidas (ANP) sobre las que la Nación ejerce soberanía y jurisdicción. Las Áreas Naturales Protegidas de carácter federal son administradas por la Comisión Nacional de Áreas Naturales Protegidas. Fuente de información: [Conanp, 2023](http://sig.conanp.gob.mx/website/pagsig/info_shape.htm).
 
 - Área protegida subnacional: Áreas protegidas estatales, municipales,  comunitarias, ejidales o privadas. Fuente de la información: [Conabio, 2020](http://geoportal.conabio.gob.mx/metadatos/doc/html/anpest20gw.html).
 

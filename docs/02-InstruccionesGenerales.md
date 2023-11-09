@@ -40,7 +40,9 @@ En esta sección encontrará las instrucciones para la captura de la informació
 
 El primer campo obligatorio es ‘Nombre del proyecto’. Al escribir el nombre (en español) y pulsar el botón ‘Crear nuevo proyecto’, se habilitarán los demás campos para ingresar la información de su proyecto. Cuando la información que se captura es extraída de una publicación, ponga el título de la publicación en español.
 
-![](images/Imagen1.png){width="650"}
+![](images/Registre.png){width="650"}
+
+![](images/Registre2.png){width="650"}
 
 ----
 
